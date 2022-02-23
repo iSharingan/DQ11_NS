@@ -1,0 +1,2643 @@
+﻿I_BON_001	beast bone
+I_BON_003	small scale
+I_BON_004	tiny tortoise shell
+I_BON_005	large scale
+I_BON_006	dragon horn
+I_BON_007	crimson coral
+I_BON_010	maiden's favor
+I_BON_011	big bone
+I_BON_014	twisted talons
+I_BON_016	serpent bone
+I_BON_020	magic beast horn
+I_BON_022	sun-bleached seashell
+I_CLO_002	flaxen thread
+I_CLO_003	evencloth
+I_CLO_004	celestial skein
+I_CLO_005	faerie fluff
+I_CLO_006	thinkincense
+I_CLO_007	cherry blossom petal
+I_CLO_008	buzzberries
+I_CLO_009	glimmergrass
+I_CLO_010	colourful cocoon
+I_CLO_011	technicolour dreamcloth
+I_CLO_012	kaleidcloth
+I_CLO_015	narspicious
+I_CLO_016	cottontop
+I_CLO_017	silkblossom
+I_CLO_018	flurry feather
+I_CLO_019	butterfly wing
+I_CLO_020	waveweed
+I_CLO_021	slipweed
+I_JEW_001	red eye
+I_JEW_002	blue eye
+I_JEW_003	yellow eye
+I_JEW_004	green eye
+I_JEW_005	purple eye
+I_JEW_006	pink pearl
+I_JEW_007	pale pearl
+I_JEW_008	pitch pearl
+I_JEW_009	royal ruby
+I_JEW_010	savvy sapphire
+I_JEW_012	sunny citrine
+I_JEW_013	equable emerald
+I_JEW_014	artful amethyst
+I_JEW_016	black tear
+I_JEW_017	spectralite
+I_LEA_001	hardy hide
+I_LEA_002	fine fur
+I_LEA_003	magic beast hide
+I_LEA_004	lambswool
+I_LEA_006	serpent skin
+I_LEA_009	dragon hide
+I_MIN_001	copper ore
+I_MIN_002	iron ore
+I_MIN_003	silver ore
+I_MIN_004	gold ore
+I_MIN_006	platinum ore
+I_MIN_007	densinium
+I_MIN_008	gold nuglet
+I_MIN_009	gold bar
+I_MIN_010	molten globules
+I_MIN_011	orichalcum
+I_MIN_012	dracolyte
+I_MIN_013	crimsonite
+I_MIN_014	uber agate of evolution
+I_MIN_017	mythril ore
+I_OTH_001	cowpat
+I_OTH_002	horse manure
+I_OTH_003	permasnow
+I_OTH_004	oasis water
+I_OTH_006	freash water
+I_OTH_007	thunderball
+I_OTH_008	saint's ashes
+I_OTH_009	belle cap
+I_OTH_010	sparkly sap
+I_OTH_011	chronocrystal
+I_OTH_012	NULL
+I_OTH_013	wing of bat
+I_OTH_014	slimedrop
+I_OTH_015	sainted soma
+I_OTH_016	grubby bandage
+I_OTH_017	toad oil
+I_OTH_018	snakeskin
+I_OTH_019	rippledrops
+I_OTH_020	royal soil
+I_OTH_023	finessence
+I_OTH_028	water sedge
+I_OTH_029	duneberry
+I_OTH_030	extra mural
+I_OTH_031	slime crown
+I_STO_001	flintstone
+I_STO_002	agate of evolution
+I_STO_003	warmaline
+I_STO_004	lamplight
+I_STO_005	enchanted stone
+I_STO_006	lava lump
+I_STO_009	fire ball
+I_STO_010	brighten rock
+I_STO_011	glass frit
+I_STO_012	lucida shard
+I_STO_013	kitty litter
+I_STO_014	ice crystal
+I_STO_015	mirrorstone
+I_STO_016	ethereal stone
+I_STO_017	dieamend
+I_USE_001	Medicinal Herb
+I_USE_002	Strong Medicine
+I_USE_003	Special Medicine
+I_USE_004	Superior Medicine
+I_USE_005	Antidotal Herb
+I_USE_006	Strong Antidote
+I_USE_007	Special Antidote
+I_USE_008	Moonwart Bulb
+I_USE_009	Softwort
+I_USE_010	Lunaria
+I_USE_011	Angel Bell
+I_USE_012	Panacea
+I_USE_013	Perfect Panacea
+I_USE_014	Yggdrasil Leaf
+I_USE_015	Yggdrasil Dew
+I_USE_016	single phial
+I_USE_017	magic water
+I_USE_018	sage's elixir
+I_USE_019	elfin elxir
+I_USE_020	holy water
+I_USE_021	chimaera wing
+I_USE_023	coagulant
+I_USE_024	tangleweb
+I_USE_025	sleeping hibiscus
+I_USE_026	wakerobin
+I_USE_027	mystifying mixture
+I_USE_028	rockbomb shard
+I_USE_029	sage's stone
+I_USE_030	seed of life
+I_USE_031	seed of magic
+I_USE_032	seed of strength
+I_USE_033	seed of deftness
+I_USE_034	seed of agility
+I_USE_035	seed of defence
+I_USE_036	seed of sorcery
+I_USE_037	seed of therapeusis
+I_USE_038	seed of skill
+I_USE_039	preety betsy
+I_USE_040	pep pip
+I_USE_041	pep pop
+I_USE_042	drasilian shilling
+I_USE_043	drasilian guinea
+I_USE_044	drasilian sovereign
+I_USE_045	mini medal
+I_USE_046	perfectionist pearl
+I_USE_047	love potion
+I_USE_048	casino token
+I_USE_049	serpents soul
+I_USE_050	cheat sheet
+I_WOO_002	pink pine
+I_WOO_005	fatalistick
+I_WOO_006	fire wood
+I_WOO_007	avabranche
+I_WOO_008	spellbound bough
+I_WOO_009	wyrmwood
+I_WOO_010	witherwood
+I_WOO_011	red wood
+I_WOO_012	cumulonimbough
+I_WOO_013	nightstick
+W_SWD_0001	cobblestone sword
+W_SWD_0002	copper sword
+W_SWD_0003	soldier's sword
+W_SWD_0004	bronze sword
+W_SWD_0005	rapier
+W_SWD_0006	iron broadsword
+W_SWD_0007	sylvando's sword
+W_SWD_0008	cautery sword
+W_SWD_0009	silver rapier
+W_SWD_0010	steel broadsword
+W_SWD_0011	bastard sword
+W_SWD_0012	bandit blade
+W_SWD_0013	falcon blade
+W_SWD_0014	zombiesbane
+W_SWD_0015	platinum sword
+W_SWD_0016	zombie slayer
+W_SWD_0017	aurora blade
+W_SWD_0018	fizzle foil
+W_SWD_0019	dragonsbane
+W_SWD_0020	miracle sword
+W_SWD_0021	fire blade
+W_SWD_0022	sword of light
+W_SWD_0023	NULL
+W_SWD_0024	metal slime sword
+W_SWD_0025	stardust sword
+W_SWD_0026	uber miracle sword
+W_SWD_0027	uber falcon blade
+W_SWD_0028	inferno blade
+W_SWD_0029	nebula sword
+W_SWD_0030	dragon slayer
+W_SWD_0031	liquid metal sword
+W_SWD_0032	supernova sword
+W_SWD_0033	thunderstorm sword
+W_SWD_0034	thousand-fold katana
+W_SWD_0035	sword of judgment
+W_SWD_0036	super sword of light
+W_SWD_0037	drustan's sword
+W_SWD_0038	shamshir of light
+W_SWD_0039	hell sabre
+W_SWD_0040	metal king sword
+W_SWD_0041	hypernova sword
+W_SWD_0042	heliodorian sword
+W_SWD_0043	NULL
+W_SWD_0044	supreme sword of light
+W_SWD_0045	cypress stick
+W_TSW_0001	copper chopper
+W_TSW_0002	broad sword
+W_TSW_0003	cast-iron claymore
+W_TSW_0004	broader sword
+W_TSW_0005	black blade
+W_TSW_0006	carbon steel claymore
+W_TSW_0007	banishing blade
+W_TSW_0008	razer-wing
+W_TSW_0009	night cleaver
+W_TSW_0010	platinum powersword
+W_TSW_0011	hendrik's greatsword
+W_TSW_0012	demonsbane
+W_TSW_0013	brimstone blade
+W_TSW_0014	wyrmfang
+W_TSW_0015	metal gooreatsword
+W_TSW_0016	lord's sword
+W_TSW_0017	skysteel sword
+W_TSW_0018	liquid metal Gooreatsword
+W_TSW_0019	legate's blade
+W_TSW_0020	berserker's blade
+W_TSW_0021	brilliant blade
+W_TSW_0022	metal king gooreatsword
+W_TSW_0023	cobblestone greatsword
+W_TSW_0024	sword of shadows
+W_TSW_0025	sword of shadows
+W_DGR_0001	erik's dagger
+W_DGR_0002	bronze knife
+W_DGR_0003	poison needle
+W_DGR_0004	divine dagger
+W_DGR_0005	poison moth knife
+W_DGR_0006	butterfly knife
+W_DGR_0007	assassin's dagger
+W_DGR_0008	dread dagger
+W_DGR_0009	eagle dagger
+W_DGR_0010	nobleman's knife
+W_DGR_0011	bloodletter
+W_DGR_0012	sword breaker
+W_DGR_0013	fenrir fang
+W_DGR_0014	soul breaker
+W_DGR_0015	icicle dirk
+W_DGR_0016	serpentscale skean
+W_DGR_0017	imp knife
+W_DGR_0018	gladius
+W_DGR_0019	falcon knife earring
+W_DGR_0020	flame tang
+W_DGR_0021	deft dagger
+W_DGR_0022	high-born blade
+W_DGR_0023	knife of strife
+W_DGR_0024	darting dagger
+W_DGR_0025	gryphon's wing
+W_DGR_0026	NULL
+W_DGR_0027	thunderstorm skean
+W_DGR_0028	el stupendo
+W_DGR_0029	timeshear
+W_DGR_0030	dynamo dagger
+W_BOO_0001	edged boomerang
+W_BOO_0002	null
+W_BOO_0003	crucerang
+W_BOO_0004	null
+W_BOO_0005	soarin' steel
+W_BOO_0006	flametang boomerang
+W_BOO_0007	winter's wing
+W_BOO_0008	magic circle
+W_BOO_0009	banefire boomerang
+W_BOO_0010	star cross
+W_BOO_0011	pentarang
+W_BOO_0012	metal goomerang
+W_BOO_0013	meteorang
+W_BOO_0014	asterang
+W_BOO_0015	null
+W_BOO_0016	liquid metal goomerang
+W_BOO_0017	dark star
+W_BOO_0018	hunter's moon
+W_BOO_0019	galaxarang
+W_BOO_0020	metal king goomerang
+W_BOO_0021	birchwood boomerang
+W_BOO_0022	boomerang
+W_ROD_0001	faerie staff
+W_ROD_0002	veronica's staff
+W_ROD_0003	wizard's staff
+W_ROD_0004	staff of sentencing
+W_ROD_0005	shiverstick
+W_ROD_0006	staff of divine wrath
+W_ROD_0007	rab's cane
+W_ROD_0008	watermaul wand
+W_ROD_0009	lightning staff
+W_ROD_0010	rod of rapidty
+W_ROD_0011	tsunami staff
+W_ROD_0012	magma staff
+W_ROD_0013	staff of antimagic
+W_ROD_0014	lightning conductor
+W_ROD_0015	rune staff
+W_ROD_0016	hieroglyph staff
+W_ROD_0017	hocus locus
+W_ROD_0018	staff of resurrection
+W_ROD_0019	celestial sceptre
+W_ROD_0020	spirit staff
+W_ROD_0021	sage's staff
+W_ROD_0022	siren's staff
+W_ROD_0023	bright staff
+W_ROD_0024	sacrosanct staff
+W_ROD_0025	wyrmwand
+W_ROD_0026	supreme sage's staff
+W_ROD_0027	null
+W_ROD_0028	null
+W_ROD_0029	rod of paradise
+W_ROD_0030	staff of eternity
+W_ROD_0031	aurora staff
+W_WHP_0001	thorn whip
+W_WHP_0002	battle whip
+W_WHP_0003	hypno whip
+W_WHP_0004	rose whip
+W_WHP_0005	beastly bullwhip
+W_WHP_0006	scorpion tail
+W_WHP_0007	dragontail whip
+W_WHP_0008	demon whip
+W_WHP_0009	queen's whip
+W_WHP_0010	archdemon whip
+W_WHP_0011	empress's whip
+W_WHP_0012	beelzebarb
+W_WHP_0013	gringham whip
+W_WHP_0014	godess whip
+W_WHP_0015	null
+W_WHP_0016	triple-tine whip
+W_WHP_0017	null
+W_WHP_0018	malevolash
+W_WHP_0019	anchor or rancour
+W_WHP_0020	hellbeast's leash
+W_WHP_0021	uber gringham whip
+W_STK_0001	serena's wand
+W_STK_0002	lamp post
+W_STK_0003	posey pole
+W_STK_0004	lolly stick
+W_STK_0005	jolly brolly
+W_STK_0006	wyvern wand
+W_STK_0007	seraphic sceptre
+W_STK_0008	spryggdrasil
+W_STK_0009	glumbrella
+W_STK_0010	bonbon baton
+W_STK_0011	red dragon rod
+W_STK_0012	seraph's stick
+W_STK_0013	butterfly baton
+W_STK_0014	glow stick
+W_STK_0015	get-up-and-glow stick
+W_STK_0016	pixie pole
+W_STK_0017	fantastick
+W_STK_0018	cane of compassion
+W_STK_0019	sceptre of time
+W_STK_0020	faerie king's cane
+W_STK_0021	rusty sceptre
+W_STK_0022	naughty stick
+W_SPR_0001	bronze lance
+W_SPR_0002	iron lance
+W_SPR_0003	battle fork
+W_SPR_0004	steel lance
+W_SPR_0005	jade's glave
+W_SPR_0006	trident
+W_SPR_0007	lightning lance
+W_SPR_0008	platinum lance
+W_SPR_0009	gracos's fork
+W_SPR_0010	demon spear
+W_SPR_0011	storm spear
+W_SPR_0012	full fathom fork
+W_SPR_0013	paladin's lance
+W_SPR_0014	metal slime spear
+W_SPR_0015	null
+W_SPR_0016	seraph's spear
+W_SPR_0017	null
+W_SPR_0018	liquid metal spear
+W_SPR_0019	null
+W_SPR_0020	barbarous pole
+W_SPR_0021	sacred spear
+W_SPR_0022	heaven's talon
+W_SPR_0023	metal king spear
+W_SPR_0024	split-pot poker
+W_AXE_0001	cavalier cleaver
+W_AXE_0002	king axe
+W_AXE_0003	ice axe
+W_AXE_0004	kaiser axe
+W_AXE_0005	obliteratoriser
+W_AXE_0006	overlord's axe
+W_AXE_0007	bad axe
+W_AXE_0008	conqueror's axe
+W_AXE_0009	avalanche axe
+W_AXE_0010	maxi axe
+W_AXE_0011	apollo's axe
+W_AXE_0012	climaxe
+W_AXE_0013	aristocrat's axe
+W_AXE_0014	kairos cleaver
+W_AXE_0015	galaxy axe
+W_CLW_0001	iron claws
+W_CLW_0002	silver claws
+W_CLW_0003	infernails
+W_CLW_0004	steel claws
+W_CLW_0005	crow's claws
+W_CLW_0006	platinum claws
+W_CLW_0007	kestrel claws
+W_CLW_0008	fire claws
+W_CLW_0009	ice claws
+W_CLW_0010	kite claws
+W_CLW_0011	cobra claws
+W_CLW_0012	dragon claws
+W_CLW_0013	crimson claws
+W_CLW_0014	beast claws
+W_CLW_0015	null
+W_CLW_0016	combusticlaws
+W_CLW_0017	king cobra claws
+W_CLW_0018	monster slashers
+W_CLW_0019	null
+W_CLW_0020	crystal claws
+W_CLW_0021	dragovian lord claws
+W_CLW_0022	orichalcum claws
+W_CLW_0023	deicimators
+W_CLW_0024	xenlon claws
+W_CLW_0025	frostfire fingers
+E_SHI_0001	pot lid
+E_SHI_0002	leather shield
+E_SHI_0003	scale shield
+E_SHI_0004	silver platter
+E_SHI_0005	gold platter
+E_SHI_0006	light shield
+E_SHI_0007	platinum platter
+E_SHI_0008	magic shield
+E_SHI_0009	flame shield
+E_SHI_0010	flame shield
+E_SHI_0011	ice shield
+E_SHI_0012	white shield
+E_SHI_0013	enchanted shield
+E_SHI_0014	metal slime shield
+E_SHI_0015	ethereal shield
+E_SHI_0016	silver shield
+E_SHI_0017	liquid metal slime shield
+E_SHI_0018	psyche swiper
+E_SHI_0019	devilry drinker
+E_SHI_0020	erdwin's shield
+E_SHI_0021	metal king shield
+E_SHI_0022	soul sucker
+E_LSH_0001	bronze shield
+E_LSH_0002	iron shield
+E_LSH_0003	steel shield
+E_LSH_0004	shield od heliodor
+E_LSH_0005	platinum shield
+E_LSH_0006	warrior's shield
+E_LSH_0007	dragon shield
+E_LSH_0008	dark shield
+E_LSH_0009	saintess shield
+E_LSH_0010	ogre shield
+E_LSH_0011	ruinous shield
+E_LSH_0012	goddess shield
+E_LSH_0013	drustan's shield
+E_HAT_0001	bandana
+E_HAT_0002	leather hat
+E_HAT_0003	hairband
+E_HAT_0004	pointy hat
+E_HAT_0005	turban
+E_HAT_0006	feathered cap
+E_HAT_0007	bunny ears
+E_HAT_0008	stone hardhat
+E_HAT_0009	fur hood
+E_HAT_0010	hermes' hat
+E_HAT_0011	coral hairpin
+E_HAT_0012	bronze helmet
+E_HAT_0013	mercury's bandana
+E_HAT_0014	silver tiara
+E_HAT_0015	magical hat
+E_HAT_0016	pirate's hat
+E_HAT_0017	gold circlet
+E_HAT_0018	thief's turban
+E_HAT_0019	feather headband
+E_HAT_0020	tricky turban
+E_HAT_0021	hocus hat
+E_HAT_0022	happy hat
+E_HAT_0023	scholar's cap
+E_HAT_0024	disturbin' turban
+E_HAT_0025	malleable mask
+E_HAT_0026	star circlet
+E_HAT_0027	papillon mask
+E_HAT_0028	swindler's scarf
+E_HAT_0029	cat hat
+E_HAT_0030	null
+E_HAT_0031	null
+E_HAT_0032	minister's mitre
+E_HAT_0033	cavalier hat
+E_HAT_0034	witch's hat
+E_HAT_0035	golden tiara
+E_HAT_0036	phantom mask
+E_HAT_0037	freebooter's bandana
+E_HAT_0038	null
+E_HAT_0039	stellar starflower
+E_HAT_0040	dragon bandana
+E_HAT_0041	spring breeze hat
+E_HAT_0042	summer cloud hat
+E_HAT_0043	autumn shower hat
+E_HAT_0044	winter sky hat
+E_HAT_0045	pirate king's hat
+E_HAT_0046	swindler king's scarf
+E_HAT_0047	crown of eternity
+E_HAT_0048	crown of eternity
+E_HAT_0049	tiara tremenda
+E_HAT_0050	xenlon hair ring
+E_HAT_0051	serenica's circlet
+E_HAT_0052	cute cap
+E_HAT_0053	bonny band
+E_HAT_0054	tiara tremendisima
+E_HAT_0055	null
+E_HAT_0056	corsair's cap
+E_HAT_0057	trodain bandana
+E_HAT_0058	artisanal trodain bandana
+E_HEL_0001	iron helmet
+E_HEL_0002	NULL
+E_HEL_0003	iron mask
+E_HEL_0004	steel helmet
+E_HEL_0005	warrior's helm
+E_HEL_0006	null
+E_HEL_0007	platinum headgear
+E_HEL_0008	iron headgear
+E_HEL_0009	hade's helm
+E_HEL_0010	mythril helm
+E_HEL_0011	thinking cap
+E_HEL_0012	raging bull helm
+E_HEL_0013	great helm
+E_HEL_0014	metal slime helm
+E_HEL_0015	drasilian helm
+E_HEL_0016	goddess's tiara
+E_HEL_0017	warrior princess's headdress
+E_HEL_0018	crown of dundrasil
+E_HEL_0019	skull helm
+E_HEL_0020	liquid metal helm
+E_HEL_0021	null
+E_HEL_0022	metal king helm
+E_HEL_0023	heavenly helm
+E_HEL_0024	erdwin's coronet
+E_HEL_0025	irwin's helm
+E_HEL_0026	sacred circlet
+E_HEL_0027	minerva's tiara
+E_HEL_0028	sun crown
+E_HEL_0029	yggdrasil crown
+E_HEL_0030	drustan's helm
+E_HEL_0031	apollo's crown
+E_CLO_0001	mardi garb
+E_CLO_0002	plain cloths
+E_CLO_0003	wayfarer's clothes
+E_CLO_0004	boxer shorts
+E_CLO_0005	templar's uniform
+E_CLO_0006	leather dress
+E_CLO_0007	leather cape
+E_CLO_0008	null
+E_CLO_0009	fur poncho
+E_CLO_0010	cloak of evasion
+E_CLO_0011	posh waistcoat
+E_CLO_0012	pretty pinny
+E_CLO_0013	dainty dress
+E_CLO_0014	smart suit
+E_CLO_0015	silk bustier
+E_CLO_0016	spangled dress
+E_CLO_0017	magical skirt
+E_CLO_0018	velvet cape
+E_CLO_0019	dragon dojo duds
+E_CLO_0020	uniforme de l'academie
+E_CLO_0021	hairy vest
+E_CLO_0022	strongsam
+E_CLO_0023	shimmering dress
+E_CLO_0024	twinkling tuxedo
+E_CLO_0025	rogue's robes
+E_CLO_0026	macabre mantle
+E_CLO_0027	saintess dress
+E_CLO_0028	dancer's costume
+E_CLO_0029	divine bustier
+E_CLO_0030	null
+E_CLO_0031	null
+E_CLO_0032	null
+E_CLO_0033	scandalous swimsuit
+E_CLO_0034	agility gilet
+E_CLO_0035	swindler's store
+E_CLO_0036	cat suit
+E_CLO_0037	dapper doublet
+E_CLO_0038	drasilian dress coat
+E_CLO_0039	general's jacket
+E_CLO_0040	star's suit
+E_CLO_0041	null
+E_CLO_0042	combat costume
+E_CLO_0043	brigandine
+E_CLO_0044	liquid metal jacket
+E_CLO_0045	superstar's suit
+E_CLO_0046	freebooter's bo;ero
+E_CLO_0047	null
+E_CLO_0048	null
+E_CLO_0049	dragonskin jacket
+E_CLO_0050	metal king jacket
+E_CLO_0051	exotoga
+E_CLO_0052	erdwin's tunic
+E_CLO_0053	pirate king's coat
+E_CLO_0054	swindler king's stole
+E_CLO_0055	serenica's surplice
+E_CLO_0056	sacred raiment
+E_CLO_0057	glad rags
+E_CLO_0058	dashing doublet
+E_CLO_0059	xenlon gown
+E_CLO_0060	pallium regale
+E_CLO_0061	yggdrasil dress coat
+E_CLO_0062	field marshal's finery
+E_CLO_0063	cobblestone clobber
+E_CLO_0064	bunny suit
+E_CLO_0065	corsair's coat
+E_CLO_0066	potentate's palliun
+E_CLO_0067	gladder rags
+E_CLO_0068	hot bikini
+E_CLO_0069	arriviste's vest
+E_CLO_0070	elevating vest
+E_CLO_0071	vest for sucess
+E_CLO_0072	trodain togs
+E_CLO_0073	artisanal trodain togs
+E_ARM_0001	leather armour
+E_ARM_0002	scale armour
+E_ARM_0003	chain mail
+E_ARM_0004	bronze armour
+E_ARM_0005	iron cuirass
+E_ARM_0006	iron armour
+E_ARM_0007	tortoise shell
+E_ARM_0008	full plate armour
+E_ARM_0009	zombie mail
+E_ARM_0010	silver cuirass
+E_ARM_0011	silver mail
+E_ARM_0012	heavy armour
+E_ARM_0013	magic armour
+E_ARM_0014	dancer's mail
+E_ARM_0015	dragon mail
+E_ARM_0016	spiked mail
+E_ARM_0017	platinum mail
+E_ARM_0018	bandit mail
+E_ARM_0019	mirror armour
+E_ARM_0020	metal slime armour
+E_ARM_0021	drasilian armour
+E_ARM_0022	hendrik's armour
+E_ARM_0023	gigant armour
+E_ARM_0024	liquid metal armour
+E_ARM_0025	sacred armour
+E_ARM_0026	metal king armour
+E_ARM_0027	legendary armour
+E_ARM_0028	irwin's armour
+E_ARM_0029	drustan's armour
+E_ARM_0030	gallopolitan armour
+E_ROB_0001	silk robe
+E_ROB_0002	fizzle-retardant suit
+E_ROB_0003	fizzle-retardant blouse
+E_ROB_0004	robe of serenity
+E_ROB_0005	magic vestment
+E_ROB_0006	glombolero
+E_ROB_0007	sage's robe
+E_ROB_0008	wizard's robe
+E_ROB_0009	witch's robe
+E_ROB_0010	prince's pea coat
+E_ROB_0011	king's coat
+E_ROB_0012	queen's robe
+E_ROB_0013	emperor's attire
+E_ROB_0014	empress's robe
+E_ROB_0015	warrior'princess's dress
+E_ROB_0016	angel's robe
+E_ROB_0017	crimson robe
+E_ROB_0018	flowing dress
+E_ROB_0019	dark robe
+E_ROB_0020	dragon robe
+E_ROB_0021	seraph's robe
+E_ROB_0022	gown of eternity
+E_ROB_0023	minerva's raiment
+E_ROB_0024	princess's robe
+A_FAC_0001	slime earrings
+A_FAC_0002	safty goggles
+A_FAC_0003	asbestos earrings
+A_FAC_0004	antifreeze earrings
+A_FAC_0005	rubber earrings
+A_FAC_0006	aerofoil earrings
+A_FAC_0007	concrete earrings
+A_FAC_0008	mirror earrings
+A_FAC_0009	cinderblock earrings
+A_FAC_0010	all-weather earrings
+A_FAC_0011	blackout earrings
+A_FAC_0012	scholar's specs
+A_NEC_0001	wings of serendipty
+A_NEC_0002	gold rosary
+A_NEC_0003	null
+A_NEC_0004	necklace of immunity
+A_NEC_0005	full moon colar
+A_NEC_0006	rousing rose collar
+A_NEC_0007	star of clarity
+A_NEC_0008	care riviere
+A_NEC_0009	torc of truth
+A_NEC_0010	protective pendant
+A_NEC_0011	choker of riddance
+A_NEC_0012	gold chain
+A_NEC_0013	token of fealty
+A_NEC_0014	dogged colar
+A_NEC_0015	bow tie
+A_NEC_0016	papillon pendant
+A_NEC_0017	pirate king's pendant
+A_ARM_0001	gold bracer
+A_ARM_0002	life bracer
+A_ARM_0003	wristorative
+A_ARM_0004	mighty armlet
+A_ARM_0005	spirit bracer
+A_ARM_0006	brainy bracer
+A_ARM_0007	meteorite bracer
+A_HAN_0001	robber's gloves
+A_HAN_0002	mayoress's mittens
+A_HAN_0003	gloomy gloves
+A_HAN_0004	null
+A_HAN_0005	murky mittens
+A_HAN_0006	brigand's mitts
+A_HAN_0007	guru's gloves
+A_HAN_0008	marquess's mittens
+A_HAN_0009	freebooter's gloves
+A_HAN_0010	enchantress's gloves
+A_HAN_0011	minister's mitts
+A_HAN_0012	monarch's mittens
+A_FIN_0001	circle of serendipity
+A_FIN_0002	strength ring
+A_FIN_0003	pink pearl ring
+A_FIN_0004	prayer ring
+A_FIN_0005	care ring
+A_FIN_0006	ring of riddance
+A_FIN_0007	gold ring
+A_FIN_0008	ring of immunity
+A_FIN_0009	ring of truth
+A_FIN_0010	full mon ring
+A_FIN_0011	rouding ring
+A_FIN_0012	ring of clarity
+A_FIN_0013	sorcerer's ring
+A_FIN_0014	agility ring
+A_FIN_0015	skull ring
+A_FIN_0016	life ring
+A_FIN_0017	catholicon ring
+A_FIN_0018	godess ring
+A_FOO_0001	fishnet stockings
+A_SHO_0001	springheel boots
+A_SHO_0002	caligae of clarity
+A_SHO_0003	angel's sandals
+A_SHO_0004	archangel's boots
+A_SHO_0005	general's boots
+A_SHO_0006	field marshal's footwear
+A_OTH_0001	gemma's charm
+A_OTH_0002	bunny tail
+A_OTH_0003	dragon scale
+A_OTH_0004	garter
+A_OTH_0005	tough guy tattoo
+A_OTH_0006	utility belt
+A_OTH_0007	rosary
+A_OTH_0008	bling-bling belt
+A_OTH_0009	titan belt
+A_OTH_0010	sorcerer's stone
+A_OTH_0011	holy talisman
+A_OTH_0012	devil's tail
+A_OTH_0013	ruby of protection
+A_OTH_0014	earthwyrm's eye
+A_OTH_0015	lucky dragon's wing
+A_OTH_0016	sovereign seal
+A_OTH_0017	venus'tear
+A_OTH_0018	monarchic mark
+A_OTH_0019	elfin charm
+A_OTH_0020	null
+A_OTH_0021	null
+A_OTH_0022	natty cravat
+A_OTH_0023	suave scarf
+A_OTH_0024	gemma's eternal charm
+A_OTH_0025	ogler's digest
+A_OTH_0026	ring of changes
+A_OTH_0027	healer
+A_OTH_0028	supplicant
+A_OTH_0029	assassin
+A_OTH_0030	mystic
+A_OTH_0031	vanguard
+A_OTH_0032	shield-bearer
+A_OTH_0033	warlock
+A_OTH_0034	trickster
+A_OTH_0035	traveller's hood
+A_OTH_0036	bell's bow
+W_SWD_1001	cobblestone sword +1
+W_SWD_1002	copper sword +1
+W_SWD_1003	soldier's sword +1
+W_SWD_1004	bronze sword +1
+W_SWD_1005	rapier +1
+W_SWD_1006	iron broadsword +1
+W_SWD_1007	sylvando's sword +1
+W_SWD_1008	cautery sword +1
+W_SWD_1009	silver rapier +1
+W_SWD_1010	steel broadsword +1
+W_SWD_1011	bastard sword +1
+W_SWD_1012	bandit blade +1
+W_SWD_1013	falcon blade +1
+W_SWD_1014	zombiesbane +1
+W_SWD_1015	platinum sword +1
+W_SWD_1016	zombie slayer +1
+W_SWD_1017	aurora blade +1
+W_SWD_1018	fizzle foil +1
+W_SWD_1019	dragonsbane +1
+W_SWD_1020	miracle sword +1
+W_SWD_1021	fire blade +1
+W_SWD_1022	sword of light +1
+W_SWD_1023	NULL +1
+W_SWD_1024	metal slime sword +1
+W_SWD_1025	stardust sword +1
+W_SWD_1026	uber miracle sword +1
+W_SWD_1027	uber falcon blade +1
+W_SWD_1028	inferno blade +1
+W_SWD_1029	nebula sword +1
+W_SWD_1030	dragon slayer +1
+W_SWD_1031	liquid metal sword +1
+W_SWD_1032	supernova sword +1
+W_SWD_1033	thunderstorm sword +1
+W_SWD_1034	thousand-fold katana +1
+W_SWD_1035	sword of judgment +1
+W_SWD_1036	super sword of light +1
+W_SWD_1037	drustan's sword +1
+W_SWD_1038	shamshir of light +1
+W_SWD_1039	hell sabre +1
+W_SWD_1040	metal king sword +1
+W_SWD_1041	hypernova sword +1
+W_SWD_1042	heliodorian sword +1
+W_SWD_1043	NULL +1
+W_SWD_1044	supreme sword of light +1
+W_SWD_1045	cypress stick +1
+W_TSW_1001	copper chopper +1
+W_TSW_1002	broad sword +1
+W_TSW_1003	cast-iron claymore +1
+W_TSW_1004	broader sword +1
+W_TSW_1005	black blade +1
+W_TSW_1006	carbon steel claymore +1
+W_TSW_1007	banishing blade +1
+W_TSW_1008	razer-wing +1
+W_TSW_1009	night cleaver +1
+W_TSW_1010	platinum powersword +1
+W_TSW_1011	hendrik's greatsword +1
+W_TSW_1012	demonsbane +1
+W_TSW_1013	brimstone blade +1
+W_TSW_1014	wyrmfang +1
+W_TSW_1015	metal gooreatsword +1
+W_TSW_1016	lord's sword +1
+W_TSW_1017	skysteel sword +1
+W_TSW_1018	liquid metal Gooreatsword +1
+W_TSW_1019	legate's blade +1
+W_TSW_1020	berserker's blade +1
+W_TSW_1021	brilliant blade +1
+W_TSW_1022	metal king gooreatsword +1
+W_TSW_1023	cobblestone greatsword +1
+W_TSW_1024	sword of shadows +1
+W_TSW_1025	sword of shadows +1
+W_DGR_1001	erik's dagger +1
+W_DGR_1002	bronze knife +1
+W_DGR_1003	poison needle +1
+W_DGR_1004	divine dagger +1
+W_DGR_1005	poison moth knife +1
+W_DGR_1006	butterfly knife +1
+W_DGR_1007	assassin's dagger +1
+W_DGR_1008	dread dagger +1
+W_DGR_1009	eagle dagger +1
+W_DGR_1010	nobleman's knife +1
+W_DGR_1011	bloodletter +1
+W_DGR_1012	sword breaker +1
+W_DGR_1013	fenrir fang +1
+W_DGR_1014	soul breaker +1
+W_DGR_1015	icicle dirk +1
+W_DGR_1016	serpentscale skean +1
+W_DGR_1017	imp knife +1
+W_DGR_1018	gladius +1
+W_DGR_1019	falcon knife earring +1
+W_DGR_1020	flame tang +1
+W_DGR_1021	deft dagger +1
+W_DGR_1022	high-born blade +1
+W_DGR_1023	knife of strife +1
+W_DGR_1024	darting dagger +1
+W_DGR_1025	gryphon's wing +1
+W_DGR_1026	NULL +1
+W_DGR_1027	thunderstorm skean +1
+W_DGR_1028	el stupendo +1
+W_DGR_1029	timeshear +1
+W_DGR_1030	dynamo dagger +1
+W_BOO_1001	edged boomerang +1
+W_BOO_1002	null +1
+W_BOO_1003	crucerang +1
+W_BOO_1004	null +1
+W_BOO_1005	soarin' steel +1
+W_BOO_1006	flametang boomerang +1
+W_BOO_1007	winter's wing +1
+W_BOO_1008	magic circle +1
+W_BOO_1009	banefire boomerang +1
+W_BOO_1010	star cross +1
+W_BOO_1011	pentarang +1
+W_BOO_1012	metal goomerang +1
+W_BOO_1013	meteorang +1
+W_BOO_1014	asterang +1
+W_BOO_1015	null +1
+W_BOO_1016	liquid metal goomerang +1
+W_BOO_1017	dark star +1
+W_BOO_1018	hunter's moon +1
+W_BOO_1019	galaxarang +1
+W_BOO_1020	metal king goomerang +1
+W_BOO_1021	birchwood boomerang +1
+W_BOO_1022	boomerang +1
+W_ROD_1001	faerie staff +1
+W_ROD_1002	veronica's staff +1
+W_ROD_1003	wizard's staff +1
+W_ROD_1004	staff of sentencing +1
+W_ROD_1005	shiverstick +1
+W_ROD_1006	staff of divine wrath +1
+W_ROD_1007	rab's cane +1
+W_ROD_1008	watermaul wand +1
+W_ROD_1009	lightning staff +1
+W_ROD_1010	rod of rapidty +1
+W_ROD_1011	tsunami staff +1
+W_ROD_1012	magma staff +1
+W_ROD_1013	staff of antimagic +1
+W_ROD_1014	lightning conductor +1
+W_ROD_1015	rune staff +1
+W_ROD_1016	hieroglyph staff +1
+W_ROD_1017	hocus locus +1
+W_ROD_1018	staff of resurrection +1
+W_ROD_1019	celestial sceptre +1
+W_ROD_1020	spirit staff +1
+W_ROD_1021	sage's staff +1
+W_ROD_1022	siren's staff +1
+W_ROD_1023	bright staff +1
+W_ROD_1024	sacrosanct staff +1
+W_ROD_1025	wyrmwand +1
+W_ROD_1026	supreme sage's staff +1
+W_ROD_1027	null +1
+W_ROD_1028	null +1
+W_ROD_1029	rod of paradise +1
+W_ROD_1030	staff of eternity +1
+W_ROD_1031	aurora staff +1
+W_WHP_1001	thorn whip +1
+W_WHP_1002	battle whip +1
+W_WHP_1003	hypno whip +1
+W_WHP_1004	rose whip +1
+W_WHP_1005	beastly bullwhip +1
+W_WHP_1006	scorpion tail +1
+W_WHP_1007	dragontail whip +1
+W_WHP_1008	demon whip +1
+W_WHP_1009	queen's whip +1
+W_WHP_1010	archdemon whip +1
+W_WHP_1011	empress's whip +1
+W_WHP_1012	beelzebarb +1
+W_WHP_1013	gringham whip +1
+W_WHP_1014	godess whip +1
+W_WHP_1015	null +1
+W_WHP_1016	triple-tine whip +1
+W_WHP_1017	null +1
+W_WHP_1018	malevolash +1
+W_WHP_1019	anchor or rancour +1
+W_WHP_1020	hellbeast's leash +1
+W_WHP_1021	uber gringham whip +1
+W_STK_1001	serena's wand +1
+W_STK_1002	lamp post +1
+W_STK_1003	posey pole +1
+W_STK_1004	lolly stick +1
+W_STK_1005	jolly brolly +1
+W_STK_1006	wyvern wand +1
+W_STK_1007	seraphic sceptre +1
+W_STK_1008	spryggdrasil +1
+W_STK_1009	glumbrella +1
+W_STK_1010	bonbon baton +1
+W_STK_1011	red dragon rod +1
+W_STK_1012	seraph's stick +1
+W_STK_1013	butterfly baton +1
+W_STK_1014	glow stick +1
+W_STK_1015	get-up-and-glow stick +1
+W_STK_1016	pixie pole +1
+W_STK_1017	fantastick +1
+W_STK_1018	cane of compassion +1
+W_STK_1019	sceptre of time +1
+W_STK_1020	faerie king's cane +1
+W_STK_1021	rusty sceptre +1
+W_STK_1022	naughty stick +1
+W_SPR_1001	bronze lance +1
+W_SPR_1002	iron lance +1
+W_SPR_1003	battle fork +1
+W_SPR_1004	steel lance +1
+W_SPR_1005	jade's glave +1
+W_SPR_1006	trident +1
+W_SPR_1007	lightning lance +1
+W_SPR_1008	platinum lance +1
+W_SPR_1009	gracos's fork +1
+W_SPR_1010	demon spear +1
+W_SPR_1011	storm spear +1
+W_SPR_1012	full fathom fork +1
+W_SPR_1013	paladin's lance +1
+W_SPR_1014	metal slime spear +1
+W_SPR_1015	null +1
+W_SPR_1016	seraph's spear +1
+W_SPR_1017	null +1
+W_SPR_1018	liquid metal spear +1
+W_SPR_1019	null +1
+W_SPR_1020	barbarous pole +1
+W_SPR_1021	sacred spear +1
+W_SPR_1022	heaven's talon +1
+W_SPR_1023	metal king spear +1
+W_SPR_1024	split-pot poker +1
+W_AXE_1001	cavalier cleaver +1
+W_AXE_1002	king axe +1
+W_AXE_1003	ice axe +1
+W_AXE_1004	kaiser axe +1
+W_AXE_1005	obliteratoriser +1
+W_AXE_1006	overlord's axe  +1
+W_AXE_1007	bad axe +1
+W_AXE_1008	conqueror's axe +1
+W_AXE_1009	avalanche axe +1
+W_AXE_1010	maxi axe +1
+W_AXE_1011	apollo's axe +1
+W_AXE_1012	climaxe +1
+W_AXE_1013	aristocrat's axe +1
+W_AXE_1014	kairos cleaver +1
+W_AXE_1015	galaxy axe +1
+W_CLW_1001	iron claws +1
+W_CLW_1002	silver claws +1
+W_CLW_1003	infernails +1
+W_CLW_1004	steel claws +1
+W_CLW_1005	crow's claws +1
+W_CLW_1006	platinum claws +1
+W_CLW_1007	kestrel claws +1
+W_CLW_1008	fire claws +1
+W_CLW_1009	ice claws +1
+W_CLW_1010	kite claws +1
+W_CLW_1011	cobra claws +1
+W_CLW_1012	dragon claws +1
+W_CLW_1013	crimson claws +1
+W_CLW_1014	beast claws +1
+W_CLW_1015	null +1
+W_CLW_1016	combusticlaws +1
+W_CLW_1017	king cobra claws +1
+W_CLW_1018	monster slashers +1
+W_CLW_1019	null +1
+W_CLW_1020	crystal claws +1
+W_CLW_1021	dragovian lord claws +1
+W_CLW_1022	orichalcum claws +1
+W_CLW_1023	deicimators +1
+W_CLW_1024	xenlon claws +1
+W_CLW_1025	frostfire fingers +1
+E_SHI_1001	pot lid +1
+E_SHI_1002	leather shield +1
+E_SHI_1003	scale shield +1
+E_SHI_1004	silver platter +1
+E_SHI_1005	gold platter +1
+E_SHI_1006	light shield +1
+E_SHI_1007	platinum platter +1
+E_SHI_1008	magic shield +1
+E_SHI_1009	flame shield +1
+E_SHI_1010	flame shield +1
+E_SHI_1011	ice shield +1
+E_SHI_1012	white shield +1
+E_SHI_1013	enchanted shield +1
+E_SHI_1014	metal slime shield +1
+E_SHI_1015	ethereal shield +1
+E_SHI_1016	silver shield +1
+E_SHI_1017	liquid metal slime shield +1
+E_SHI_1018	psyche swiper +1
+E_SHI_1019	devilry drinker +1
+E_SHI_1020	erdwin's shield +1
+E_SHI_1021	metal king shield +1
+E_SHI_1022	soul sucker +1
+E_LSH_1001	bronze shield +1
+E_LSH_1002	iron shield +1
+E_LSH_1003	steel shield +1
+E_LSH_1004	shield od heliodor +1
+E_LSH_1005	platinum shield +1
+E_LSH_1006	warrior's shield +1
+E_LSH_1007	dragon shield +1
+E_LSH_1008	dark shield +1
+E_LSH_1009	saintess shield +1
+E_LSH_1010	ogre shield +1
+E_LSH_1011	ruinous shield +1
+E_LSH_1012	goddess shield +1
+E_LSH_1013	drustan's shield +1
+E_HAT_1001	bandana +1
+E_HAT_1002	leather hat +1
+E_HAT_1003	hairband +1
+E_HAT_1004	pointy hat +1
+E_HAT_1005	turban +1
+E_HAT_1006	feathered cap +1
+E_HAT_1007	bunny ears +1
+E_HAT_1008	stone hardhat +1
+E_HAT_1009	fur hood +1
+E_HAT_1010	hermes' hat +1
+E_HAT_1011	coral hairpin +1
+E_HAT_1012	bronze helmet +1
+E_HAT_1013	mercury's bandana +1
+E_HAT_1014	silver tiara +1
+E_HAT_1015	magical hat +1
+E_HAT_1016	pirate's hat +1
+E_HAT_1017	gold circlet +1
+E_HAT_1018	thief's turban +1
+E_HAT_1019	feather headband +1
+E_HAT_1020	tricky turban +1
+E_HAT_1021	hocus hat +1
+E_HAT_1022	happy hat +1
+E_HAT_1023	scholar's cap +1
+E_HAT_1024	disturbin' turban +1
+E_HAT_1025	malleable mask +1
+E_HAT_1026	star circlet +1
+E_HAT_1027	papillon mask +1
+E_HAT_1028	swindler's scarf +1
+E_HAT_1029	cat hat +1
+E_HAT_1030	null +1
+E_HAT_1031	null +1
+E_HAT_1032	minister's mitre +1
+E_HAT_1033	cavalier hat +1
+E_HAT_1034	witch's hat +1
+E_HAT_1035	golden tiara +1
+E_HAT_1036	phantom mask +1
+E_HAT_1037	freebooter's bandana +1
+E_HAT_1038	null +1
+E_HAT_1039	stellar starflower +1
+E_HAT_1040	dragon bandana +1
+E_HAT_1041	spring breeze hat +1
+E_HAT_1042	summer cloud hat +1
+E_HAT_1043	autumn shower hat +1
+E_HAT_1044	winter sky hat +1
+E_HAT_1045	pirate king's hat +1
+E_HAT_1046	swindler king's scarf +1
+E_HAT_1047	crown of eternity +1
+E_HAT_1048	crown of eternity +1
+E_HAT_1049	tiara tremenda +1
+E_HAT_1050	xenlon hair ring +1
+E_HAT_1051	serenica's circlet +1
+E_HAT_1052	cute cap +1
+E_HAT_1053	bonny band +1
+E_HAT_1054	tiara tremendisima +1
+E_HAT_1055	null +1
+E_HAT_1056	corsair's cap +1
+E_HAT_1057	trodain bandana +1
+E_HAT_1058	artisanal trodain bandana +1
+E_HEL_1001	iron helmet +1
+E_HEL_1002	NULL +1
+E_HEL_1003	iron mask +1
+E_HEL_1004	steel helmet +1
+E_HEL_1005	warrior's helm +1
+E_HEL_1006	null +1
+E_HEL_1007	platinum headgear +1
+E_HEL_1008	iron headgear +1
+E_HEL_1009	hade's helm +1
+E_HEL_1010	mythril helm +1
+E_HEL_1011	thinking cap +1
+E_HEL_1012	raging bull helm +1
+E_HEL_1013	great helm +1
+E_HEL_1014	metal slime helm +1
+E_HEL_1015	drasilian helm +1
+E_HEL_1016	goddess's tiara +1
+E_HEL_1017	warrior princess's headdress +1
+E_HEL_1018	crown of dundrasil +1
+E_HEL_1019	skull helm +1
+E_HEL_1020	liquid metal helm +1
+E_HEL_1021	null +1
+E_HEL_1022	metal king helm +1
+E_HEL_1023	heavenly helm +1
+E_HEL_1024	erdwin's coronet +1
+E_HEL_1025	irwin's helm +1
+E_HEL_1026	sacred circlet +1
+E_HEL_1027	minerva's tiara +1
+E_HEL_1028	sun crown +1
+E_HEL_1029	yggdrasil crown +1
+E_HEL_1030	drustan's helm +1
+E_HEL_1031	apollo's crown +1
+E_CLO_1001	mardi garb +1
+E_CLO_1002	plain cloths +1
+E_CLO_1003	wayfarer's clothes +1
+E_CLO_1004	boxer shorts +1
+E_CLO_1005	templar's uniform +1
+E_CLO_1006	leather dress +1
+E_CLO_1007	leather cape +1
+E_CLO_1008	null +1
+E_CLO_1009	fur poncho +1
+E_CLO_1010	cloak of evasion +1
+E_CLO_1011	posh waistcoat +1
+E_CLO_1012	pretty pinny +1
+E_CLO_1013	dainty dress +1
+E_CLO_1014	smart suit +1
+E_CLO_1015	silk bustier +1
+E_CLO_1016	spangled dress +1
+E_CLO_1017	magical skirt +1
+E_CLO_1018	velvet cape +1
+E_CLO_1019	dragon dojo duds +1
+E_CLO_1020	uniforme de l'academie +1
+E_CLO_1021	hairy vest +1
+E_CLO_1022	strongsam +1
+E_CLO_1023	shimmering dress +1
+E_CLO_1024	twinkling tuxedo +1
+E_CLO_1025	rogue's robes +1
+E_CLO_1026	macabre mantle +1
+E_CLO_1027	saintess dress +1
+E_CLO_1028	dancer's costume +1
+E_CLO_1029	divine bustier +1
+E_CLO_1030	null +1
+E_CLO_1031	null +1
+E_CLO_1032	null +1
+E_CLO_1033	scandalous swimsuit +1
+E_CLO_1034	agility gilet +1
+E_CLO_1035	swindler's store +1
+E_CLO_1036	cat suit +1
+E_CLO_1037	dapper doublet +1
+E_CLO_1038	drasilian dress coat +1
+E_CLO_1039	general's jacket +1
+E_CLO_1040	star's suit +1
+E_CLO_1041	null +1
+E_CLO_1042	combat costume +1
+E_CLO_1043	brigandine +1
+E_CLO_1044	liquid metal jacket +1
+E_CLO_1045	superstar's suit +1
+E_CLO_1046	freebooter's bo;ero +1
+E_CLO_1047	null +1
+E_CLO_1048	null +1
+E_CLO_1049	dragonskin jacket +1
+E_CLO_1050	metal king jacket +1
+E_CLO_1051	exotoga +1
+E_CLO_1052	erdwin's tunic +1
+E_CLO_1053	pirate king's coat +1
+E_CLO_1054	swindler king's stole +1
+E_CLO_1055	serenica's surplice +1
+E_CLO_1056	sacred raiment +1
+E_CLO_1057	glad rags +1
+E_CLO_1058	dashing doublet +1
+E_CLO_1059	xenlon gown +1
+E_CLO_1060	pallium regale +1
+E_CLO_1061	yggdrasil dress coat +1
+E_CLO_1062	field marshal's finery +1
+E_CLO_1063	cobblestone clobber +1
+E_CLO_1064	bunny suit +1
+E_CLO_1065	corsair's coat +1
+E_CLO_1066	potentate's palliun +1
+E_CLO_1067	gladder rags +1
+E_CLO_1068	hot bikini +1
+E_CLO_1069	arriviste's vest +1
+E_CLO_1070	elevating vest +1
+E_CLO_1071	vest for sucess +1
+E_CLO_1072	trodain togs +1
+E_CLO_1073	artisanal trodain togs +1
+E_ARM_1001	leather armour +1
+E_ARM_1002	scale armour +1
+E_ARM_1003	chain mail +1
+E_ARM_1004	bronze armour +1
+E_ARM_1005	iron cuirass +1
+E_ARM_1006	iron armour +1
+E_ARM_1007	tortoise shell +1
+E_ARM_1008	full plate armour +1
+E_ARM_1009	zombie mail +1
+E_ARM_1010	silver cuirass +1
+E_ARM_1011	silver mail +1
+E_ARM_1012	heavy armour +1
+E_ARM_1013	magic armour +1
+E_ARM_1014	dancer's mail +1
+E_ARM_1015	dragon mail +1
+E_ARM_1016	spiked mail +1
+E_ARM_1017	platinum mail +1
+E_ARM_1018	bandit mail +1
+E_ARM_1019	mirror armour +1
+E_ARM_1020	metal slime armour +1
+E_ARM_1021	drasilian armour +1
+E_ARM_1022	hendrik's armour +1
+E_ARM_1023	gigant armour +1
+E_ARM_1024	liquid metal armour +1
+E_ARM_1025	sacred armour +1
+E_ARM_1026	metal king armour +1
+E_ARM_1027	legendary armour +1
+E_ARM_1028	irwin's armour +1
+E_ARM_1029	drustan's armour +1
+E_ARM_1030	gallopolitan armour +1
+E_ROB_1001	silk robe +1
+E_ROB_1002	fizzle-retardant suit +1
+E_ROB_1003	fizzle-retardant blouse +1
+E_ROB_1004	robe of serenity +1
+E_ROB_1005	magic vestment +1
+E_ROB_1006	glombolero +1
+E_ROB_1007	sage's robe +1
+E_ROB_1008	wizard's robe +1
+E_ROB_1009	witch's robe +1
+E_ROB_1010	prince's pea coat  +1
+E_ROB_1011	king's coat +1
+E_ROB_1012	queen's robe +1
+E_ROB_1013	emperor's attire +1
+E_ROB_1014	empress's robe +1
+E_ROB_1015	warrior'princess's dress +1
+E_ROB_1016	angel's robe +1
+E_ROB_1017	crimson robe +1
+E_ROB_1018	flowing dress +1
+E_ROB_1019	dark robe +1
+E_ROB_1020	dragon robe +1
+E_ROB_1021	seraph's robe +1
+E_ROB_1022	gown of eternity +1
+E_ROB_1023	minerva's raiment +1
+E_ROB_1024	princess's robe +1
+A_FAC_1001	slime earrings +1
+A_FAC_1002	safty goggles +1
+A_FAC_1003	asbestos earrings +1
+A_FAC_1004	antifreeze earrings +1
+A_FAC_1005	rubber earrings +1
+A_FAC_1006	aerofoil earrings +1
+A_FAC_1007	concrete earrings +1
+A_FAC_1008	mirror earrings +1
+A_FAC_1009	cinderblock earrings +1
+A_FAC_1010	all-weather earrings +1
+A_FAC_1011	blackout earrings +1
+A_FAC_1012	scholar's specs +1
+A_NEC_1001	wings of serendipty +1
+A_NEC_1002	gold rosary +1
+A_NEC_1003	null +1
+A_NEC_1004	necklace of immunity +1
+A_NEC_1005	full moon colar +1
+A_NEC_1006	rousing rose collar +1
+A_NEC_1007	star of clarity +1
+A_NEC_1008	care riviere +1
+A_NEC_1009	torc of truth +1
+A_NEC_1010	protective pendant +1
+A_NEC_1011	choker of riddance +1
+A_NEC_1012	gold chain +1
+A_NEC_1013	token of fealty +1
+A_NEC_1014	dogged colar +1
+A_NEC_1015	bow tie +1
+A_NEC_1016	papillon pendant +1
+A_NEC_1017	pirate king's pendant +1
+A_ARM_1001	gold bracer +1
+A_ARM_1002	life bracer +1
+A_ARM_1003	wristorative +1
+A_ARM_1004	mighty armlet +1
+A_ARM_1005	spirit bracer +1
+A_ARM_1006	brainy bracer +1
+A_ARM_1007	meteorite bracer +1
+A_HAN_1001	robber's gloves +1
+A_HAN_1002	mayoress's mittens +1
+A_HAN_1003	gloomy gloves +1
+A_HAN_1004	null +1
+A_HAN_1005	murky mittens +1
+A_HAN_1006	brigand's mitts +1
+A_HAN_1007	guru's gloves +1
+A_HAN_1008	marquess's mittens +1
+A_HAN_1009	freebooter's gloves +1
+A_HAN_1010	enchantress's gloves +1
+A_HAN_1011	minister's mitts +1
+A_HAN_1012	monarch's mittens +1
+A_FIN_1001	circle of serendipity +1
+A_FIN_1002	strength ring +1
+A_FIN_1003	pink pearl ring +1
+A_FIN_1004	prayer ring +1
+A_FIN_1005	care ring +1
+A_FIN_1006	ring of riddance +1
+A_FIN_1007	gold ring +1
+A_FIN_1008	ring of immunity +1
+A_FIN_1009	ring of truth +1
+A_FIN_1010	full mon ring +1
+A_FIN_1011	rouding ring +1
+A_FIN_1012	ring of clarity +1
+A_FIN_1013	sorcerer's ring +1
+A_FIN_1014	agility ring +1
+A_FIN_1015	skull ring +1
+A_FIN_1016	life ring +1
+A_FIN_1017	catholicon ring +1
+A_FIN_1018	godess ring +1
+A_FOO_1001	fishnet stockings +1
+A_SHO_1001	springheel boots +1
+A_SHO_1002	caligae of clarity +1
+A_SHO_1003	angel's sandals +1
+A_SHO_1004	archangel's boots +1
+A_SHO_1005	general's boots +1
+A_SHO_1006	field marshal's footwear +1
+A_OTH_1001	gemma's charm +1
+A_OTH_1002	bunny tail +1
+A_OTH_1003	dragon scale +1
+A_OTH_1004	garter +1
+A_OTH_1005	tough guy tattoo +1
+A_OTH_1006	utility belt +1
+A_OTH_1007	rosary +1
+A_OTH_1008	bling-bling belt +1
+A_OTH_1009	titan belt +1
+A_OTH_1010	sorcerer's stone +1
+A_OTH_1011	holy talisman +1
+A_OTH_1012	devil's tail +1
+A_OTH_1013	ruby of protection +1
+A_OTH_1014	earthwyrm's eye +1
+A_OTH_1015	lucky dragon's wing +1
+A_OTH_1016	sovereign seal +1
+A_OTH_1017	venus'tear +1
+A_OTH_1018	monarchic mark +1
+A_OTH_1019	elfin charm +1
+A_OTH_1020	null +1
+A_OTH_1021	null +1
+A_OTH_1022	natty cravat +1
+A_OTH_1023	suave scarf +1
+A_OTH_1024	gemma's eternal charm +1
+A_OTH_1025	ogler's digest +1
+A_OTH_1026	ring of changes +1
+A_OTH_1027	healer +1
+A_OTH_1028	supplicant +1
+A_OTH_1029	assassin +1
+A_OTH_1030	mystic +1
+A_OTH_1031	vanguard +1
+A_OTH_1032	shield-bearer +1
+A_OTH_1033	warlock +1
+A_OTH_1034	trickster +1
+A_OTH_1035	traveller's hood +1
+A_OTH_1036	bell's bow +1
+W_SWD_2001	cobblestone sword +2
+W_SWD_2002	copper sword +2
+W_SWD_2003	soldier's sword +2
+W_SWD_2004	bronze sword +2
+W_SWD_2005	rapier +2
+W_SWD_2006	iron broadsword +2
+W_SWD_2007	sylvando's sword +2
+W_SWD_2008	cautery sword +2
+W_SWD_2009	silver rapier +2
+W_SWD_2010	steel broadsword +2
+W_SWD_2011	bastard sword +2
+W_SWD_2012	bandit blade +2
+W_SWD_2013	falcon blade +2
+W_SWD_2014	zombiesbane +2
+W_SWD_2015	platinum sword +2
+W_SWD_2016	zombie slayer +2
+W_SWD_2017	aurora blade +2
+W_SWD_2018	fizzle foil +2
+W_SWD_2019	dragonsbane +2
+W_SWD_2020	miracle sword +2
+W_SWD_2021	fire blade +2
+W_SWD_2022	sword of light +2
+W_SWD_2023	NULL +2
+W_SWD_2024	metal slime sword +2
+W_SWD_2025	stardust sword +2
+W_SWD_2026	uber miracle sword +2
+W_SWD_2027	uber falcon blade +2
+W_SWD_2028	inferno blade +2
+W_SWD_2029	nebula sword +2
+W_SWD_2030	dragon slayer +2
+W_SWD_2031	liquid metal sword +2
+W_SWD_2032	supernova sword +2
+W_SWD_2033	thunderstorm sword +2
+W_SWD_2034	thousand-fold katana +2
+W_SWD_2035	sword of judgment +2
+W_SWD_2036	super sword of light +2
+W_SWD_2037	drustan's sword +2
+W_SWD_2038	shamshir of light +2
+W_SWD_2039	hell sabre +2
+W_SWD_2040	metal king sword +2
+W_SWD_2041	hypernova sword +2
+W_SWD_2042	heliodorian sword +2
+W_SWD_2043	NULL +2
+W_SWD_2044	supreme sword of light +2
+W_SWD_2045	cypress stick +2
+W_TSW_2001	copper chopper +2
+W_TSW_2002	broad sword +2
+W_TSW_2003	cast-iron claymore +2
+W_TSW_2004	broader sword +2
+W_TSW_2005	black blade +2
+W_TSW_2006	carbon steel claymore +2
+W_TSW_2007	banishing blade +2
+W_TSW_2008	razer-wing +2
+W_TSW_2009	night cleaver +2
+W_TSW_2010	platinum powersword +2
+W_TSW_2011	hendrik's greatsword +2
+W_TSW_2012	demonsbane +2
+W_TSW_2013	brimstone blade +2
+W_TSW_2014	wyrmfang +2
+W_TSW_2015	metal gooreatsword +2
+W_TSW_2016	lord's sword +2
+W_TSW_2017	skysteel sword +2
+W_TSW_2018	liquid metal Gooreatsword +2
+W_TSW_2019	legate's blade +2
+W_TSW_2020	berserker's blade +2
+W_TSW_2021	brilliant blade +2
+W_TSW_2022	metal king gooreatsword +2
+W_TSW_2023	cobblestone greatsword +2
+W_TSW_2024	sword of shadows +2
+W_TSW_2025	sword of shadows +2
+W_DGR_2001	erik's dagger +2
+W_DGR_2002	bronze knife +2
+W_DGR_2003	poison needle +2
+W_DGR_2004	divine dagger +2
+W_DGR_2005	poison moth knife +2
+W_DGR_2006	butterfly knife +2
+W_DGR_2007	assassin's dagger +2
+W_DGR_2008	dread dagger +2
+W_DGR_2009	eagle dagger +2
+W_DGR_2010	nobleman's knife +2
+W_DGR_2011	bloodletter +2
+W_DGR_2012	sword breaker +2
+W_DGR_2013	fenrir fang +2
+W_DGR_2014	soul breaker +2
+W_DGR_2015	icicle dirk +2
+W_DGR_2016	serpentscale skean +2
+W_DGR_2017	imp knife +2
+W_DGR_2018	gladius +2
+W_DGR_2019	falcon knife earring +2
+W_DGR_2020	flame tang +2
+W_DGR_2021	deft dagger +2
+W_DGR_2022	high-born blade +2
+W_DGR_2023	knife of strife +2
+W_DGR_2024	darting dagger +2
+W_DGR_2025	gryphon's wing +2
+W_DGR_2026	NULL +2
+W_DGR_2027	thunderstorm skean +2
+W_DGR_2028	el stupendo +2
+W_DGR_2029	timeshear +2
+W_DGR_2030	dynamo dagger +2
+W_BOO_2001	edged boomerang +2
+W_BOO_2002	null +2
+W_BOO_2003	crucerang +2
+W_BOO_2004	null +2
+W_BOO_2005	soarin' steel +2
+W_BOO_2006	flametang boomerang +2
+W_BOO_2007	winter's wing +2
+W_BOO_2008	magic circle +2
+W_BOO_2009	banefire boomerang +2
+W_BOO_2010	star cross +2
+W_BOO_2011	pentarang +2
+W_BOO_2012	metal goomerang +2
+W_BOO_2013	meteorang +2
+W_BOO_2014	asterang +2
+W_BOO_2015	null +2
+W_BOO_2016	liquid metal goomerang +2
+W_BOO_2017	dark star +2
+W_BOO_2018	hunter's moon +2
+W_BOO_2019	galaxarang +2
+W_BOO_2020	metal king goomerang +2
+W_BOO_2021	birchwood boomerang +2
+W_BOO_2022	boomerang +2
+W_ROD_2001	faerie staff +2
+W_ROD_2002	veronica's staff +2
+W_ROD_2003	wizard's staff +2
+W_ROD_2004	staff of sentencing +2
+W_ROD_2005	shiverstick +2
+W_ROD_2006	staff of divine wrath +2
+W_ROD_2007	rab's cane +2
+W_ROD_2008	watermaul wand +2
+W_ROD_2009	lightning staff +2
+W_ROD_2010	rod of rapidty +2
+W_ROD_2011	tsunami staff +2
+W_ROD_2012	magma staff +2
+W_ROD_2013	staff of antimagic +2
+W_ROD_2014	lightning conductor +2
+W_ROD_2015	rune staff +2
+W_ROD_2016	hieroglyph staff +2
+W_ROD_2017	hocus locus +2
+W_ROD_2018	staff of resurrection +2
+W_ROD_2019	celestial sceptre +2
+W_ROD_2020	spirit staff +2
+W_ROD_2021	sage's staff +2
+W_ROD_2022	siren's staff +2
+W_ROD_2023	bright staff +2
+W_ROD_2024	sacrosanct staff +2
+W_ROD_2025	wyrmwand +2
+W_ROD_2026	supreme sage's staff +2
+W_ROD_2027	null +2
+W_ROD_2028	null +2
+W_ROD_2029	rod of paradise +2
+W_ROD_2030	staff of eternity +2
+W_ROD_2031	aurora staff +2
+W_WHP_2001	thorn whip +2
+W_WHP_2002	battle whip +2
+W_WHP_2003	hypno whip +2
+W_WHP_2004	rose whip +2
+W_WHP_2005	beastly bullwhip +2
+W_WHP_2006	scorpion tail +2
+W_WHP_2007	dragontail whip +2
+W_WHP_2008	demon whip +2
+W_WHP_2009	queen's whip +2
+W_WHP_2010	archdemon whip +2
+W_WHP_2011	empress's whip +2
+W_WHP_2012	beelzebarb +2
+W_WHP_2013	gringham whip +2
+W_WHP_2014	godess whip +2
+W_WHP_2015	null +2
+W_WHP_2016	triple-tine whip +2
+W_WHP_2017	null +2
+W_WHP_2018	malevolash +2
+W_WHP_2019	anchor or rancour +2
+W_WHP_2020	hellbeast's leash +2
+W_WHP_2021	uber gringham whip +2
+W_STK_2001	serena's wand +2
+W_STK_2002	lamp post +2
+W_STK_2003	posey pole +2
+W_STK_2004	lolly stick +2
+W_STK_2005	jolly brolly +2
+W_STK_2006	wyvern wand +2
+W_STK_2007	seraphic sceptre +2
+W_STK_2008	spryggdrasil +2
+W_STK_2009	glumbrella +2
+W_STK_2010	bonbon baton +2
+W_STK_2011	red dragon rod +2
+W_STK_2012	seraph's stick +2
+W_STK_2013	butterfly baton +2
+W_STK_2014	glow stick +2
+W_STK_2015	get-up-and-glow stick +2
+W_STK_2016	pixie pole +2
+W_STK_2017	fantastick +2
+W_STK_2018	cane of compassion +2
+W_STK_2019	sceptre of time +2
+W_STK_2020	faerie king's cane +2
+W_STK_2021	rusty sceptre +2
+W_STK_2022	naughty stick +2
+W_SPR_2001	bronze lance +2
+W_SPR_2002	iron lance +2
+W_SPR_2003	battle fork +2
+W_SPR_2004	steel lance +2
+W_SPR_2005	jade's glave +2
+W_SPR_2006	trident +2
+W_SPR_2007	lightning lance +2
+W_SPR_2008	platinum lance +2
+W_SPR_2009	gracos's fork +2
+W_SPR_2010	demon spear +2
+W_SPR_2011	storm spear +2
+W_SPR_2012	full fathom fork +2
+W_SPR_2013	paladin's lance +2
+W_SPR_2014	metal slime spear +2
+W_SPR_2015	null +2
+W_SPR_2016	seraph's spear +2
+W_SPR_2017	null +2
+W_SPR_2018	liquid metal spear +2
+W_SPR_2019	null +2
+W_SPR_2020	barbarous pole +2
+W_SPR_2021	sacred spear +2
+W_SPR_2022	heaven's talon +2
+W_SPR_2023	metal king spear +2
+W_SPR_2024	split-pot poker +2
+W_AXE_2001	cavalier cleaver +2
+W_AXE_2002	king axe +2
+W_AXE_2003	ice axe +2
+W_AXE_2004	kaiser axe +2
+W_AXE_2005	obliteratoriser +2
+W_AXE_2006	overlord's axe  +2
+W_AXE_2007	bad axe +2
+W_AXE_2008	conqueror's axe +2
+W_AXE_2009	avalanche axe +2
+W_AXE_2010	maxi axe +2
+W_AXE_2011	apollo's axe +2
+W_AXE_2012	climaxe +2
+W_AXE_2013	aristocrat's axe +2
+W_AXE_2014	kairos cleaver +2
+W_AXE_2015	galaxy axe +2
+W_CLW_2001	iron claws +2
+W_CLW_2002	silver claws +2
+W_CLW_2003	infernails +2
+W_CLW_2004	steel claws +2
+W_CLW_2005	crow's claws +2
+W_CLW_2006	platinum claws +2
+W_CLW_2007	kestrel claws +2
+W_CLW_2008	fire claws +2
+W_CLW_2009	ice claws +2
+W_CLW_2010	kite claws +2
+W_CLW_2011	cobra claws +2
+W_CLW_2012	dragon claws +2
+W_CLW_2013	crimson claws +2
+W_CLW_2014	beast claws +2
+W_CLW_2015	null +2
+W_CLW_2016	combusticlaws +2
+W_CLW_2017	king cobra claws +2
+W_CLW_2018	monster slashers +2
+W_CLW_2019	null +2
+W_CLW_2020	crystal claws +2
+W_CLW_2021	dragovian lord claws +2
+W_CLW_2022	orichalcum claws +2
+W_CLW_2023	deicimators +2
+W_CLW_2024	xenlon claws +2
+W_CLW_2025	frostfire fingers +2
+E_SHI_2001	pot lid +2
+E_SHI_2002	leather shield +2
+E_SHI_2003	scale shield +2
+E_SHI_2004	silver platter +2
+E_SHI_2005	gold platter +2
+E_SHI_2006	light shield +2
+E_SHI_2007	platinum platter +2
+E_SHI_2008	magic shield +2
+E_SHI_2009	flame shield +2
+E_SHI_2010	flame shield +2
+E_SHI_2011	ice shield +2
+E_SHI_2012	white shield +2
+E_SHI_2013	enchanted shield +2
+E_SHI_2014	metal slime shield +2
+E_SHI_2015	ethereal shield +2
+E_SHI_2016	silver shield +2
+E_SHI_2017	liquid metal slime shield +2
+E_SHI_2018	psyche swiper +2
+E_SHI_2019	devilry drinker +2
+E_SHI_2020	erdwin's shield +2
+E_SHI_2021	metal king shield +2
+E_SHI_2022	soul sucker +2
+E_LSH_2001	bronze shield +2
+E_LSH_2002	iron shield +2
+E_LSH_2003	steel shield +2
+E_LSH_2004	shield od heliodor +2
+E_LSH_2005	platinum shield +2
+E_LSH_2006	warrior's shield +2
+E_LSH_2007	dragon shield +2
+E_LSH_2008	dark shield +2
+E_LSH_2009	saintess shield +2
+E_LSH_2010	ogre shield +2
+E_LSH_2011	ruinous shield +2
+E_LSH_2012	goddess shield +2
+E_LSH_2013	drustan's shield +2
+E_HAT_2001	bandana +2
+E_HAT_2002	leather hat +2
+E_HAT_2003	hairband +2
+E_HAT_2004	pointy hat +2
+E_HAT_2005	turban +2
+E_HAT_2006	feathered cap +2
+E_HAT_2007	bunny ears +2
+E_HAT_2008	stone hardhat +2
+E_HAT_2009	fur hood +2
+E_HAT_2010	hermes' hat +2
+E_HAT_2011	coral hairpin +2
+E_HAT_2012	bronze helmet +2
+E_HAT_2013	mercury's bandana +2
+E_HAT_2014	silver tiara +2
+E_HAT_2015	magical hat +2
+E_HAT_2016	pirate's hat +2
+E_HAT_2017	gold circlet +2
+E_HAT_2018	thief's turban +2
+E_HAT_2019	feather headband +2
+E_HAT_2020	tricky turban +2
+E_HAT_2021	hocus hat +2
+E_HAT_2022	happy hat +2
+E_HAT_2023	scholar's cap +2
+E_HAT_2024	disturbin' turban +2
+E_HAT_2025	malleable mask +2
+E_HAT_2026	star circlet +2
+E_HAT_2027	papillon mask +2
+E_HAT_2028	swindler's scarf +2
+E_HAT_2029	cat hat +2
+E_HAT_2030	null +2
+E_HAT_2031	null +2
+E_HAT_2032	minister's mitre +2
+E_HAT_2033	cavalier hat +2
+E_HAT_2034	witch's hat +2
+E_HAT_2035	golden tiara +2
+E_HAT_2036	phantom mask +2
+E_HAT_2037	freebooter's bandana +2
+E_HAT_2038	null +2
+E_HAT_2039	stellar starflower +2
+E_HAT_2040	dragon bandana +2
+E_HAT_2041	spring breeze hat +2
+E_HAT_2042	summer cloud hat +2
+E_HAT_2043	autumn shower hat +2
+E_HAT_2044	winter sky hat +2
+E_HAT_2045	pirate king's hat +2
+E_HAT_2046	swindler king's scarf +2
+E_HAT_2047	crown of eternity +2
+E_HAT_2048	crown of eternity +2
+E_HAT_2049	tiara tremenda +2
+E_HAT_2050	xenlon hair ring +2
+E_HAT_2051	serenica's circlet +2
+E_HAT_2052	cute cap +2
+E_HAT_2053	bonny band +2
+E_HAT_2054	tiara tremendisima +2
+E_HAT_2055	null +2
+E_HAT_2056	corsair's cap +2
+E_HAT_2057	trodain bandana +2
+E_HAT_2058	artisanal trodain bandana +2
+E_HEL_2001	iron helmet +2
+E_HEL_2002	NULL +2
+E_HEL_2003	iron mask +2
+E_HEL_2004	steel helmet +2
+E_HEL_2005	warrior's helm +2
+E_HEL_2006	null +2
+E_HEL_2007	platinum headgear +2
+E_HEL_2008	iron headgear +2
+E_HEL_2009	hade's helm +2
+E_HEL_2010	mythril helm +2
+E_HEL_2011	thinking cap +2
+E_HEL_2012	raging bull helm +2
+E_HEL_2013	great helm +2
+E_HEL_2014	metal slime helm +2
+E_HEL_2015	drasilian helm +2
+E_HEL_2016	goddess's tiara +2
+E_HEL_2017	warrior princess's headdress +2
+E_HEL_2018	crown of dundrasil +2
+E_HEL_2019	skull helm +2
+E_HEL_2020	liquid metal helm +2
+E_HEL_2021	null +2
+E_HEL_2022	metal king helm +2
+E_HEL_2023	heavenly helm +2
+E_HEL_2024	erdwin's coronet +2
+E_HEL_2025	irwin's helm +2
+E_HEL_2026	sacred circlet +2
+E_HEL_2027	minerva's tiara +2
+E_HEL_2028	sun crown +2
+E_HEL_2029	yggdrasil crown +2
+E_HEL_2030	drustan's helm +2
+E_HEL_2031	apollo's crown +2
+E_CLO_2001	mardi garb +2
+E_CLO_2002	plain cloths +2
+E_CLO_2003	wayfarer's clothes +2
+E_CLO_2004	boxer shorts +2
+E_CLO_2005	templar's uniform +2
+E_CLO_2006	leather dress +2
+E_CLO_2007	leather cape +2
+E_CLO_2008	null +2
+E_CLO_2009	fur poncho +2
+E_CLO_2010	cloak of evasion +2
+E_CLO_2011	posh waistcoat +2
+E_CLO_2012	pretty pinny +2
+E_CLO_2013	dainty dress +2
+E_CLO_2014	smart suit +2
+E_CLO_2015	silk bustier +2
+E_CLO_2016	spangled dress +2
+E_CLO_2017	magical skirt +2
+E_CLO_2018	velvet cape +2
+E_CLO_2019	dragon dojo duds +2
+E_CLO_2020	uniforme de l'academie +2
+E_CLO_2021	hairy vest +2
+E_CLO_2022	strongsam +2
+E_CLO_2023	shimmering dress +2
+E_CLO_2024	twinkling tuxedo +2
+E_CLO_2025	rogue's robes +2
+E_CLO_2026	macabre mantle +2
+E_CLO_2027	saintess dress +2
+E_CLO_2028	dancer's costume +2
+E_CLO_2029	divine bustier +2
+E_CLO_2030	null +2
+E_CLO_2031	null +2
+E_CLO_2032	null +2
+E_CLO_2033	scandalous swimsuit +2
+E_CLO_2034	agility gilet +2
+E_CLO_2035	swindler's store +2
+E_CLO_2036	cat suit +2
+E_CLO_2037	dapper doublet +2
+E_CLO_2038	drasilian dress coat +2
+E_CLO_2039	general's jacket +2
+E_CLO_2040	star's suit +2
+E_CLO_2041	null +2
+E_CLO_2042	combat costume +2
+E_CLO_2043	brigandine +2
+E_CLO_2044	liquid metal jacket +2
+E_CLO_2045	superstar's suit +2
+E_CLO_2046	freebooter's bo;ero +2
+E_CLO_2047	null +2
+E_CLO_2048	null +2
+E_CLO_2049	dragonskin jacket +2
+E_CLO_2050	metal king jacket +2
+E_CLO_2051	exotoga +2
+E_CLO_2052	erdwin's tunic +2
+E_CLO_2053	pirate king's coat +2
+E_CLO_2054	swindler king's stole +2
+E_CLO_2055	serenica's surplice +2
+E_CLO_2056	sacred raiment +2
+E_CLO_2057	glad rags +2
+E_CLO_2058	dashing doublet +2
+E_CLO_2059	xenlon gown +2
+E_CLO_2060	pallium regale +2
+E_CLO_2061	yggdrasil dress coat +2
+E_CLO_2062	field marshal's finery +2
+E_CLO_2063	cobblestone clobber +2
+E_CLO_2064	bunny suit +2
+E_CLO_2065	corsair's coat +2
+E_CLO_2066	potentate's palliun +2
+E_CLO_2067	gladder rags +2
+E_CLO_2068	hot bikini +2
+E_CLO_2069	arriviste's vest +2
+E_CLO_2070	elevating vest +2
+E_CLO_2071	vest for sucess +2
+E_CLO_2072	trodain togs +2
+E_CLO_2073	artisanal trodain togs +2
+E_ARM_2001	leather armour +2
+E_ARM_2002	scale armour +2
+E_ARM_2003	chain mail +2
+E_ARM_2004	bronze armour +2
+E_ARM_2005	iron cuirass +2
+E_ARM_2006	iron armour +2
+E_ARM_2007	tortoise shell +2
+E_ARM_2008	full plate armour +2
+E_ARM_2009	zombie mail +2
+E_ARM_2010	silver cuirass +2
+E_ARM_2011	silver mail +2
+E_ARM_2012	heavy armour +2
+E_ARM_2013	magic armour +2
+E_ARM_2014	dancer's mail +2
+E_ARM_2015	dragon mail +2
+E_ARM_2016	spiked mail +2
+E_ARM_2017	platinum mail +2
+E_ARM_2018	bandit mail +2
+E_ARM_2019	mirror armour +2
+E_ARM_2020	metal slime armour +2
+E_ARM_2021	drasilian armour +2
+E_ARM_2022	hendrik's armour +2
+E_ARM_2023	gigant armour +2
+E_ARM_2024	liquid metal armour +2
+E_ARM_2025	sacred armour +2
+E_ARM_2026	metal king armour +2
+E_ARM_2027	legendary armour +2
+E_ARM_2028	irwin's armour +2
+E_ARM_2029	drustan's armour +2
+E_ARM_2030	gallopolitan armour +2
+E_ROB_2001	silk robe +2
+E_ROB_2002	fizzle-retardant suit +2
+E_ROB_2003	fizzle-retardant blouse +2
+E_ROB_2004	robe of serenity +2
+E_ROB_2005	magic vestment +2
+E_ROB_2006	glombolero +2
+E_ROB_2007	sage's robe +2
+E_ROB_2008	wizard's robe +2
+E_ROB_2009	witch's robe +2
+E_ROB_2010	prince's pea coat  +2
+E_ROB_2011	king's coat +2
+E_ROB_2012	queen's robe +2
+E_ROB_2013	emperor's attire +2
+E_ROB_2014	empress's robe +2
+E_ROB_2015	warrior'princess's dress +2
+E_ROB_2016	angel's robe +2
+E_ROB_2017	crimson robe +2
+E_ROB_2018	flowing dress +2
+E_ROB_2019	dark robe +2
+E_ROB_2020	dragon robe +2
+E_ROB_2021	seraph's robe +2
+E_ROB_2022	gown of eternity +2
+E_ROB_2023	minerva's raiment +2
+E_ROB_2024	princess's robe +2
+A_FAC_2001	slime earrings +2
+A_FAC_2002	safty goggles +2
+A_FAC_2003	asbestos earrings +2
+A_FAC_2004	antifreeze earrings +2
+A_FAC_2005	rubber earrings +2
+A_FAC_2006	aerofoil earrings +2
+A_FAC_2007	concrete earrings +2
+A_FAC_2008	mirror earrings +2
+A_FAC_2009	cinderblock earrings +2
+A_FAC_2010	all-weather earrings +2
+A_FAC_2011	blackout earrings +2
+A_FAC_2012	scholar's specs +2
+A_NEC_2001	wings of serendipty +2
+A_NEC_2002	gold rosary +2
+A_NEC_2003	null +2
+A_NEC_2004	necklace of immunity +2
+A_NEC_2005	full moon colar +2
+A_NEC_2006	rousing rose collar +2
+A_NEC_2007	star of clarity +2
+A_NEC_2008	care riviere +2
+A_NEC_2009	torc of truth +2
+A_NEC_2010	protective pendant +2
+A_NEC_2011	choker of riddance +2
+A_NEC_2012	gold chain +2
+A_NEC_2013	token of fealty +2
+A_NEC_2014	dogged colar +2
+A_NEC_2015	bow tie +2
+A_NEC_2016	papillon pendant +2
+A_NEC_2017	pirate king's pendant +2
+A_ARM_2001	gold bracer +2
+A_ARM_2002	life bracer +2
+A_ARM_2003	wristorative +2
+A_ARM_2004	mighty armlet +2
+A_ARM_2005	spirit bracer +2
+A_ARM_2006	brainy bracer +2
+A_ARM_2007	meteorite bracer +2
+A_HAN_2001	robber's gloves +2
+A_HAN_2002	mayoress's mittens +2
+A_HAN_2003	gloomy gloves +2
+A_HAN_2004	null +2
+A_HAN_2005	murky mittens +2
+A_HAN_2006	brigand's mitts +2
+A_HAN_2007	guru's gloves +2
+A_HAN_2008	marquess's mittens +2
+A_HAN_2009	freebooter's gloves +2
+A_HAN_2010	enchantress's gloves +2
+A_HAN_2011	minister's mitts +2
+A_HAN_2012	monarch's mittens +2
+A_FIN_2001	circle of serendipity +2
+A_FIN_2002	strength ring +2
+A_FIN_2003	pink pearl ring +2
+A_FIN_2004	prayer ring +2
+A_FIN_2005	care ring +2
+A_FIN_2006	ring of riddance +2
+A_FIN_2007	gold ring +2
+A_FIN_2008	ring of immunity +2
+A_FIN_2009	ring of truth +2
+A_FIN_2010	full mon ring +2
+A_FIN_2011	rouding ring +2
+A_FIN_2012	ring of clarity +2
+A_FIN_2013	sorcerer's ring +2
+A_FIN_2014	agility ring +2
+A_FIN_2015	skull ring +2
+A_FIN_2016	life ring +2
+A_FIN_2017	catholicon ring +2
+A_FIN_2018	godess ring +2
+A_FOO_2001	fishnet stockings +2
+A_SHO_2001	springheel boots +2
+A_SHO_2002	caligae of clarity +2
+A_SHO_2003	angel's sandals +2
+A_SHO_2004	archangel's boots +2
+A_SHO_2005	general's boots +2
+A_SHO_2006	field marshal's footwear +2
+A_OTH_2001	gemma's charm +2
+A_OTH_2002	bunny tail +2
+A_OTH_2003	dragon scale +2
+A_OTH_2004	garter +2
+A_OTH_2005	tough guy tattoo +2
+A_OTH_2006	utility belt +2
+A_OTH_2007	rosary +2
+A_OTH_2008	bling-bling belt +2
+A_OTH_2009	titan belt +2
+A_OTH_2010	sorcerer's stone +2
+A_OTH_2011	holy talisman +2
+A_OTH_2012	devil's tail +2
+A_OTH_2013	ruby of protection +2
+A_OTH_2014	earthwyrm's eye +2
+A_OTH_2015	lucky dragon's wing +2
+A_OTH_2016	sovereign seal +2
+A_OTH_2017	venus'tear +2
+A_OTH_2018	monarchic mark +2
+A_OTH_2019	elfin charm +2
+A_OTH_2020	null +2
+A_OTH_2021	null +2
+A_OTH_2022	natty cravat +2
+A_OTH_2023	suave scarf +2
+A_OTH_2024	gemma's eternal charm +2
+A_OTH_2025	ogler's digest +2
+A_OTH_2026	ring of changes +2
+A_OTH_2027	healer +2
+A_OTH_2028	supplicant +2
+A_OTH_2029	assassin +2
+A_OTH_2030	mystic +2
+A_OTH_2031	vanguard +2
+A_OTH_2032	shield-bearer +2
+A_OTH_2033	warlock +2
+A_OTH_2034	trickster +2
+A_OTH_2035	traveller's hood +2
+A_OTH_2036	bell's bow +2
+W_SWD_3001	cobblestone sword +3
+W_SWD_3002	copper sword +3
+W_SWD_3003	soldier's sword +3
+W_SWD_3004	bronze sword +3
+W_SWD_3005	rapier +3
+W_SWD_3006	iron broadsword +3
+W_SWD_3007	sylvando's sword +3
+W_SWD_3008	cautery sword +3
+W_SWD_3009	silver rapier +3
+W_SWD_3010	steel broadsword +3
+W_SWD_3011	bastard sword +3
+W_SWD_3012	bandit blade +3
+W_SWD_3013	falcon blade +3
+W_SWD_3014	zombiesbane +3
+W_SWD_3015	platinum sword +3
+W_SWD_3016	zombie slayer +3
+W_SWD_3017	aurora blade +3
+W_SWD_3018	fizzle foil +3
+W_SWD_3019	dragonsbane +3
+W_SWD_3020	miracle sword +3
+W_SWD_3021	fire blade +3
+W_SWD_3022	sword of light +3
+W_SWD_3023	NULL +3
+W_SWD_3024	metal slime sword +3
+W_SWD_3025	stardust sword +3
+W_SWD_3026	uber miracle sword +3
+W_SWD_3027	uber falcon blade +3
+W_SWD_3028	inferno blade +3
+W_SWD_3029	nebula sword +3
+W_SWD_3030	dragon slayer +3
+W_SWD_3031	liquid metal sword +3
+W_SWD_3032	supernova sword +3
+W_SWD_3033	thunderstorm sword +3
+W_SWD_3034	thousand-fold katana +3
+W_SWD_3035	sword of judgment +3
+W_SWD_3036	super sword of light +3
+W_SWD_3037	drustan's sword +3
+W_SWD_3038	shamshir of light +3
+W_SWD_3039	hell sabre +3
+W_SWD_3040	metal king sword +3
+W_SWD_3041	hypernova sword +3
+W_SWD_3042	heliodorian sword +3
+W_SWD_3043	NULL +3
+W_SWD_3044	supreme sword of light +3
+W_SWD_3045	cypress stick +3
+W_TSW_3001	copper chopper +3
+W_TSW_3002	broad sword +3
+W_TSW_3003	cast-iron claymore +3
+W_TSW_3004	broader sword +3
+W_TSW_3005	black blade +3
+W_TSW_3006	carbon steel claymore +3
+W_TSW_3007	banishing blade +3
+W_TSW_3008	razer-wing +3
+W_TSW_3009	night cleaver +3
+W_TSW_3010	platinum powersword +3
+W_TSW_3011	hendrik's greatsword +3
+W_TSW_3012	demonsbane +3
+W_TSW_3013	brimstone blade +3
+W_TSW_3014	wyrmfang +3
+W_TSW_3015	metal gooreatsword +3
+W_TSW_3016	lord's sword +3
+W_TSW_3017	skysteel sword +3
+W_TSW_3018	liquid metal Gooreatsword +3
+W_TSW_3019	legate's blade +3
+W_TSW_3020	berserker's blade +3
+W_TSW_3021	brilliant blade +3
+W_TSW_3022	metal king gooreatsword +3
+W_TSW_3023	cobblestone greatsword +3
+W_TSW_3024	sword of shadows +3
+W_TSW_3025	sword of shadows +3
+W_DGR_3001	erik's dagger +3
+W_DGR_3002	bronze knife +3
+W_DGR_3003	poison needle +3
+W_DGR_3004	divine dagger +3
+W_DGR_3005	poison moth knife +3
+W_DGR_3006	butterfly knife +3
+W_DGR_3007	assassin's dagger +3
+W_DGR_3008	dread dagger +3
+W_DGR_3009	eagle dagger +3
+W_DGR_3010	nobleman's knife +3
+W_DGR_3011	bloodletter +3
+W_DGR_3012	sword breaker +3
+W_DGR_3013	fenrir fang +3
+W_DGR_3014	soul breaker +3
+W_DGR_3015	icicle dirk +3
+W_DGR_3016	serpentscale skean +3
+W_DGR_3017	imp knife +3
+W_DGR_3018	gladius +3
+W_DGR_3019	falcon knife earring +3
+W_DGR_3020	flame tang +3
+W_DGR_3021	deft dagger +3
+W_DGR_3022	high-born blade +3
+W_DGR_3023	knife of strife +3
+W_DGR_3024	darting dagger +3
+W_DGR_3025	gryphon's wing +3
+W_DGR_3026	NULL +3
+W_DGR_3027	thunderstorm skean +3
+W_DGR_3028	el stupendo +3
+W_DGR_3029	timeshear +3
+W_DGR_3030	dynamo dagger +3
+W_BOO_3001	edged boomerang +3
+W_BOO_3002	null +3
+W_BOO_3003	crucerang +3
+W_BOO_3004	null +3
+W_BOO_3005	soarin' steel +3
+W_BOO_3006	flametang boomerang +3
+W_BOO_3007	winter's wing +3
+W_BOO_3008	magic circle +3
+W_BOO_3009	banefire boomerang +3
+W_BOO_3010	star cross +3
+W_BOO_3011	pentarang +3
+W_BOO_3012	metal goomerang +3
+W_BOO_3013	meteorang +3
+W_BOO_3014	asterang +3
+W_BOO_3015	null +3
+W_BOO_3016	liquid metal goomerang +3
+W_BOO_3017	dark star +3
+W_BOO_3018	hunter's moon +3
+W_BOO_3019	galaxarang +3
+W_BOO_3020	metal king goomerang +3
+W_BOO_3021	birchwood boomerang +3
+W_BOO_3022	boomerang +3
+W_ROD_3001	faerie staff +3
+W_ROD_3002	veronica's staff +3
+W_ROD_3003	wizard's staff +3
+W_ROD_3004	staff of sentencing +3
+W_ROD_3005	shiverstick +3
+W_ROD_3006	staff of divine wrath +3
+W_ROD_3007	rab's cane +3
+W_ROD_3008	watermaul wand +3
+W_ROD_3009	lightning staff +3
+W_ROD_3010	rod of rapidty +3
+W_ROD_3011	tsunami staff +3
+W_ROD_3012	magma staff +3
+W_ROD_3013	staff of antimagic +3
+W_ROD_3014	lightning conductor +3
+W_ROD_3015	rune staff +3
+W_ROD_3016	hieroglyph staff +3
+W_ROD_3017	hocus locus +3
+W_ROD_3018	staff of resurrection +3
+W_ROD_3019	celestial sceptre +3
+W_ROD_3020	spirit staff +3
+W_ROD_3021	sage's staff +3
+W_ROD_3022	siren's staff +3
+W_ROD_3023	bright staff +3
+W_ROD_3024	sacrosanct staff +3
+W_ROD_3025	wyrmwand +3
+W_ROD_3026	supreme sage's staff +3
+W_ROD_3027	null +3
+W_ROD_3028	null +3
+W_ROD_3029	rod of paradise +3
+W_ROD_3030	staff of eternity +3
+W_ROD_3031	aurora staff +3
+W_WHP_3001	thorn whip +3
+W_WHP_3002	battle whip +3
+W_WHP_3003	hypno whip +3
+W_WHP_3004	rose whip +3
+W_WHP_3005	beastly bullwhip +3
+W_WHP_3006	scorpion tail +3
+W_WHP_3007	dragontail whip +3
+W_WHP_3008	demon whip +3
+W_WHP_3009	queen's whip +3
+W_WHP_3010	archdemon whip +3
+W_WHP_3011	empress's whip +3
+W_WHP_3012	beelzebarb +3
+W_WHP_3013	gringham whip +3
+W_WHP_3014	godess whip +3
+W_WHP_3015	null +3
+W_WHP_3016	triple-tine whip +3
+W_WHP_3017	null +3
+W_WHP_3018	malevolash +3
+W_WHP_3019	anchor or rancour +3
+W_WHP_3020	hellbeast's leash +3
+W_WHP_3021	uber gringham whip +3
+W_STK_3001	serena's wand +3
+W_STK_3002	lamp post +3
+W_STK_3003	posey pole +3
+W_STK_3004	lolly stick +3
+W_STK_3005	jolly brolly +3
+W_STK_3006	wyvern wand +3
+W_STK_3007	seraphic sceptre +3
+W_STK_3008	spryggdrasil +3
+W_STK_3009	glumbrella +3
+W_STK_3010	bonbon baton +3
+W_STK_3011	red dragon rod +3
+W_STK_3012	seraph's stick +3
+W_STK_3013	butterfly baton +3
+W_STK_3014	glow stick +3
+W_STK_3015	get-up-and-glow stick +3
+W_STK_3016	pixie pole +3
+W_STK_3017	fantastick +3
+W_STK_3018	cane of compassion +3
+W_STK_3019	sceptre of time +3
+W_STK_3020	faerie king's cane +3
+W_STK_3021	rusty sceptre +3
+W_STK_3022	naughty stick +3
+W_SPR_3001	bronze lance +3
+W_SPR_3002	iron lance +3
+W_SPR_3003	battle fork +3
+W_SPR_3004	steel lance +3
+W_SPR_3005	jade's glave +3
+W_SPR_3006	trident +3
+W_SPR_3007	lightning lance +3
+W_SPR_3008	platinum lance +3
+W_SPR_3009	gracos's fork +3
+W_SPR_3010	demon spear +3
+W_SPR_3011	storm spear +3
+W_SPR_3012	full fathom fork +3
+W_SPR_3013	paladin's lance +3
+W_SPR_3014	metal slime spear +3
+W_SPR_3015	null +3
+W_SPR_3016	seraph's spear +3
+W_SPR_3017	null +3
+W_SPR_3018	liquid metal spear +3
+W_SPR_3019	null +3
+W_SPR_3020	barbarous pole +3
+W_SPR_3021	sacred spear +3
+W_SPR_3022	heaven's talon +3
+W_SPR_3023	metal king spear +3
+W_SPR_3024	split-pot poker +3
+W_AXE_3001	cavalier cleaver +3
+W_AXE_3002	king axe +3
+W_AXE_3003	ice axe +3
+W_AXE_3004	kaiser axe +3
+W_AXE_3005	obliteratoriser +3
+W_AXE_3006	overlord's axe  +3
+W_AXE_3007	bad axe +3
+W_AXE_3008	conqueror's axe +3
+W_AXE_3009	avalanche axe +3
+W_AXE_3010	maxi axe +3
+W_AXE_3011	apollo's axe +3
+W_AXE_3012	climaxe +3
+W_AXE_3013	aristocrat's axe +3
+W_AXE_3014	kairos cleaver +3
+W_AXE_3015	galaxy axe +3
+W_CLW_3001	iron claws +3
+W_CLW_3002	silver claws +3
+W_CLW_3003	infernails +3
+W_CLW_3004	steel claws +3
+W_CLW_3005	crow's claws +3
+W_CLW_3006	platinum claws +3
+W_CLW_3007	kestrel claws +3
+W_CLW_3008	fire claws +3
+W_CLW_3009	ice claws +3
+W_CLW_3010	kite claws +3
+W_CLW_3011	cobra claws +3
+W_CLW_3012	dragon claws +3
+W_CLW_3013	crimson claws +3
+W_CLW_3014	beast claws +3
+W_CLW_3015	null +3
+W_CLW_3016	combusticlaws +3
+W_CLW_3017	king cobra claws +3
+W_CLW_3018	monster slashers +3
+W_CLW_3019	null +3
+W_CLW_3020	crystal claws +3
+W_CLW_3021	dragovian lord claws +3
+W_CLW_3022	orichalcum claws +3
+W_CLW_3023	deicimators +3
+W_CLW_3024	xenlon claws +3
+W_CLW_3025	frostfire fingers +3
+E_SHI_3001	pot lid +3
+E_SHI_3002	leather shield +3
+E_SHI_3003	scale shield +3
+E_SHI_3004	silver platter +3
+E_SHI_3005	gold platter +3
+E_SHI_3006	light shield +3
+E_SHI_3007	platinum platter +3
+E_SHI_3008	magic shield +3
+E_SHI_3009	flame shield +3
+E_SHI_3010	flame shield +3
+E_SHI_3011	ice shield +3
+E_SHI_3012	white shield +3
+E_SHI_3013	enchanted shield +3
+E_SHI_3014	metal slime shield +3
+E_SHI_3015	ethereal shield +3
+E_SHI_3016	silver shield +3
+E_SHI_3017	liquid metal slime shield +3
+E_SHI_3018	psyche swiper +3
+E_SHI_3019	devilry drinker +3
+E_SHI_3020	erdwin's shield +3
+E_SHI_3021	metal king shield +3
+E_SHI_3022	soul sucker +3
+E_LSH_3001	bronze shield +3
+E_LSH_3002	iron shield +3
+E_LSH_3003	steel shield +3
+E_LSH_3004	shield od heliodor +3
+E_LSH_3005	platinum shield +3
+E_LSH_3006	warrior's shield +3
+E_LSH_3007	dragon shield +3
+E_LSH_3008	dark shield +3
+E_LSH_3009	saintess shield +3
+E_LSH_3010	ogre shield +3
+E_LSH_3011	ruinous shield +3
+E_LSH_3012	goddess shield +3
+E_LSH_3013	drustan's shield +3
+E_HAT_3001	bandana +3
+E_HAT_3002	leather hat +3
+E_HAT_3003	hairband +3
+E_HAT_3004	pointy hat +3
+E_HAT_3005	turban +3
+E_HAT_3006	feathered cap +3
+E_HAT_3007	bunny ears +3
+E_HAT_3008	stone hardhat +3
+E_HAT_3009	fur hood +3
+E_HAT_3010	hermes' hat +3
+E_HAT_3011	coral hairpin +3
+E_HAT_3012	bronze helmet +3
+E_HAT_3013	mercury's bandana +3
+E_HAT_3014	silver tiara +3
+E_HAT_3015	magical hat +3
+E_HAT_3016	pirate's hat +3
+E_HAT_3017	gold circlet +3
+E_HAT_3018	thief's turban +3
+E_HAT_3019	feather headband +3
+E_HAT_3020	tricky turban +3
+E_HAT_3021	hocus hat +3
+E_HAT_3022	happy hat +3
+E_HAT_3023	scholar's cap +3
+E_HAT_3024	disturbin' turban +3
+E_HAT_3025	malleable mask +3
+E_HAT_3026	star circlet +3
+E_HAT_3027	papillon mask +3
+E_HAT_3028	swindler's scarf +3
+E_HAT_3029	cat hat +3
+E_HAT_3030	null +3
+E_HAT_3031	null +3
+E_HAT_3032	minister's mitre +3
+E_HAT_3033	cavalier hat +3
+E_HAT_3034	witch's hat +3
+E_HAT_3035	golden tiara +3
+E_HAT_3036	phantom mask +3
+E_HAT_3037	freebooter's bandana +3
+E_HAT_3038	null +3
+E_HAT_3039	stellar starflower +3
+E_HAT_3040	dragon bandana +3
+E_HAT_3041	spring breeze hat +3
+E_HAT_3042	summer cloud hat +3
+E_HAT_3043	autumn shower hat +3
+E_HAT_3044	winter sky hat +3
+E_HAT_3045	pirate king's hat +3
+E_HAT_3046	swindler king's scarf +3
+E_HAT_3047	crown of eternity +3
+E_HAT_3048	crown of eternity +3
+E_HAT_3049	tiara tremenda +3
+E_HAT_3050	xenlon hair ring +3
+E_HAT_3051	serenica's circlet +3
+E_HAT_3052	cute cap +3
+E_HAT_3053	bonny band +3
+E_HAT_3054	tiara tremendisima +3
+E_HAT_3055	null +3
+E_HAT_3056	corsair's cap +3
+E_HAT_3057	trodain bandana +3
+E_HAT_3058	artisanal trodain bandana +3
+E_HEL_3001	iron helmet +3
+E_HEL_3002	NULL +3
+E_HEL_3003	iron mask +3
+E_HEL_3004	steel helmet +3
+E_HEL_3005	warrior's helm +3
+E_HEL_3006	null +3
+E_HEL_3007	platinum headgear +3
+E_HEL_3008	iron headgear +3
+E_HEL_3009	hade's helm +3
+E_HEL_3010	mythril helm +3
+E_HEL_3011	thinking cap +3
+E_HEL_3012	raging bull helm +3
+E_HEL_3013	great helm +3
+E_HEL_3014	metal slime helm +3
+E_HEL_3015	drasilian helm +3
+E_HEL_3016	goddess's tiara +3
+E_HEL_3017	warrior princess's headdress +3
+E_HEL_3018	crown of dundrasil +3
+E_HEL_3019	skull helm +3
+E_HEL_3020	liquid metal helm +3
+E_HEL_3021	null +3
+E_HEL_3022	metal king helm +3
+E_HEL_3023	heavenly helm +3
+E_HEL_3024	erdwin's coronet +3
+E_HEL_3025	irwin's helm +3
+E_HEL_3026	sacred circlet +3
+E_HEL_3027	minerva's tiara +3
+E_HEL_3028	sun crown +3
+E_HEL_3029	yggdrasil crown +3
+E_HEL_3030	drustan's helm +3
+E_HEL_3031	apollo's crown +3
+E_CLO_3001	mardi garb +3
+E_CLO_3002	plain cloths +3
+E_CLO_3003	wayfarer's clothes +3
+E_CLO_3004	boxer shorts +3
+E_CLO_3005	templar's uniform +3
+E_CLO_3006	leather dress +3
+E_CLO_3007	leather cape +3
+E_CLO_3008	null +3
+E_CLO_3009	fur poncho +3
+E_CLO_3010	cloak of evasion +3
+E_CLO_3011	posh waistcoat +3
+E_CLO_3012	pretty pinny +3
+E_CLO_3013	dainty dress +3
+E_CLO_3014	smart suit +3
+E_CLO_3015	silk bustier +3
+E_CLO_3016	spangled dress +3
+E_CLO_3017	magical skirt +3
+E_CLO_3018	velvet cape +3
+E_CLO_3019	dragon dojo duds +3
+E_CLO_3020	uniforme de l'academie +3
+E_CLO_3021	hairy vest +3
+E_CLO_3022	strongsam +3
+E_CLO_3023	shimmering dress +3
+E_CLO_3024	twinkling tuxedo +3
+E_CLO_3025	rogue's robes +3
+E_CLO_3026	macabre mantle +3
+E_CLO_3027	saintess dress +3
+E_CLO_3028	dancer's costume +3
+E_CLO_3029	divine bustier +3
+E_CLO_3030	null +3
+E_CLO_3031	null +3
+E_CLO_3032	null +3
+E_CLO_3033	scandalous swimsuit +3
+E_CLO_3034	agility gilet +3
+E_CLO_3035	swindler's store +3
+E_CLO_3036	cat suit +3
+E_CLO_3037	dapper doublet +3
+E_CLO_3038	drasilian dress coat +3
+E_CLO_3039	general's jacket +3
+E_CLO_3040	star's suit +3
+E_CLO_3041	null +3
+E_CLO_3042	combat costume +3
+E_CLO_3043	brigandine +3
+E_CLO_3044	liquid metal jacket +3
+E_CLO_3045	superstar's suit +3
+E_CLO_3046	freebooter's bo;ero +3
+E_CLO_3047	null +3
+E_CLO_3048	null +3
+E_CLO_3049	dragonskin jacket +3
+E_CLO_3050	metal king jacket +3
+E_CLO_3051	exotoga +3
+E_CLO_3052	erdwin's tunic +3
+E_CLO_3053	pirate king's coat +3
+E_CLO_3054	swindler king's stole +3
+E_CLO_3055	serenica's surplice +3
+E_CLO_3056	sacred raiment +3
+E_CLO_3057	glad rags +3
+E_CLO_3058	dashing doublet +3
+E_CLO_3059	xenlon gown +3
+E_CLO_3060	pallium regale +3
+E_CLO_3061	yggdrasil dress coat +3
+E_CLO_3062	field marshal's finery +3
+E_CLO_3063	cobblestone clobber +3
+E_CLO_3064	bunny suit +3
+E_CLO_3065	corsair's coat +3
+E_CLO_3066	potentate's palliun +3
+E_CLO_3067	gladder rags +3
+E_CLO_3068	hot bikini +3
+E_CLO_3069	arriviste's vest +3
+E_CLO_3070	elevating vest +3
+E_CLO_3071	vest for sucess +3
+E_CLO_3072	trodain togs +3
+E_CLO_3073	artisanal trodain togs +3
+E_ARM_3001	leather armour +3
+E_ARM_3002	scale armour +3
+E_ARM_3003	chain mail +3
+E_ARM_3004	bronze armour +3
+E_ARM_3005	iron cuirass +3
+E_ARM_3006	iron armour +3
+E_ARM_3007	tortoise shell +3
+E_ARM_3008	full plate armour +3
+E_ARM_3009	zombie mail +3
+E_ARM_3010	silver cuirass +3
+E_ARM_3011	silver mail +3
+E_ARM_3012	heavy armour +3
+E_ARM_3013	magic armour +3
+E_ARM_3014	dancer's mail +3
+E_ARM_3015	dragon mail +3
+E_ARM_3016	spiked mail +3
+E_ARM_3017	platinum mail +3
+E_ARM_3018	bandit mail +3
+E_ARM_3019	mirror armour +3
+E_ARM_3020	metal slime armour +3
+E_ARM_3021	drasilian armour +3
+E_ARM_3022	hendrik's armour +3
+E_ARM_3023	gigant armour +3
+E_ARM_3024	liquid metal armour +3
+E_ARM_3025	sacred armour +3
+E_ARM_3026	metal king armour +3
+E_ARM_3027	legendary armour +3
+E_ARM_3028	irwin's armour +3
+E_ARM_3029	drustan's armour +3
+E_ARM_3030	gallopolitan armour +3
+E_ROB_3001	silk robe +3
+E_ROB_3002	fizzle-retardant suit +3
+E_ROB_3003	fizzle-retardant blouse +3
+E_ROB_3004	robe of serenity +3
+E_ROB_3005	magic vestment +3
+E_ROB_3006	glombolero +3
+E_ROB_3007	sage's robe +3
+E_ROB_3008	wizard's robe +3
+E_ROB_3009	witch's robe +3
+E_ROB_3010	prince's pea coat  +3
+E_ROB_3011	king's coat +3
+E_ROB_3012	queen's robe +3
+E_ROB_3013	emperor's attire +3
+E_ROB_3014	empress's robe +3
+E_ROB_3015	warrior'princess's dress +3
+E_ROB_3016	angel's robe +3
+E_ROB_3017	crimson robe +3
+E_ROB_3018	flowing dress +3
+E_ROB_3019	dark robe +3
+E_ROB_3020	dragon robe +3
+E_ROB_3021	seraph's robe +3
+E_ROB_3022	gown of eternity +3
+E_ROB_3023	minerva's raiment +3
+E_ROB_3024	princess's robe +3
+A_FAC_3001	slime earrings +3
+A_FAC_3002	safty goggles +3
+A_FAC_3003	asbestos earrings +3
+A_FAC_3004	antifreeze earrings +3
+A_FAC_3005	rubber earrings +3
+A_FAC_3006	aerofoil earrings +3
+A_FAC_3007	concrete earrings +3
+A_FAC_3008	mirror earrings +3
+A_FAC_3009	cinderblock earrings +3
+A_FAC_3010	all-weather earrings +3
+A_FAC_3011	blackout earrings +3
+A_FAC_3012	scholar's specs +3
+A_NEC_3001	wings of serendipty +3
+A_NEC_3002	gold rosary +3
+A_NEC_3003	null +3
+A_NEC_3004	necklace of immunity +3
+A_NEC_3005	full moon colar +3
+A_NEC_3006	rousing rose collar +3
+A_NEC_3007	star of clarity +3
+A_NEC_3008	care riviere +3
+A_NEC_3009	torc of truth +3
+A_NEC_3010	protective pendant +3
+A_NEC_3011	choker of riddance +3
+A_NEC_3012	gold chain +3
+A_NEC_3013	token of fealty +3
+A_NEC_3014	dogged colar +3
+A_NEC_3015	bow tie +3
+A_NEC_3016	papillon pendant +3
+A_NEC_3017	pirate king's pendant +3
+A_ARM_3001	gold bracer +3
+A_ARM_3002	life bracer +3
+A_ARM_3003	wristorative +3
+A_ARM_3004	mighty armlet +3
+A_ARM_3005	spirit bracer +3
+A_ARM_3006	brainy bracer +3
+A_ARM_3007	meteorite bracer +3
+A_HAN_3001	robber's gloves +3
+A_HAN_3002	mayoress's mittens +3
+A_HAN_3003	gloomy gloves +3
+A_HAN_3004	null +3
+A_HAN_3005	murky mittens +3
+A_HAN_3006	brigand's mitts +3
+A_HAN_3007	guru's gloves +3
+A_HAN_3008	marquess's mittens +3
+A_HAN_3009	freebooter's gloves +3
+A_HAN_3010	enchantress's gloves +3
+A_HAN_3011	minister's mitts +3
+A_HAN_3012	monarch's mittens +3
+A_FIN_3001	circle of serendipity +3
+A_FIN_3002	strength ring +3
+A_FIN_3003	pink pearl ring +3
+A_FIN_3004	prayer ring +3
+A_FIN_3005	care ring +3
+A_FIN_3006	ring of riddance +3
+A_FIN_3007	gold ring +3
+A_FIN_3008	ring of immunity +3
+A_FIN_3009	ring of truth +3
+A_FIN_3010	full mon ring +3
+A_FIN_3011	rouding ring +3
+A_FIN_3012	ring of clarity +3
+A_FIN_3013	sorcerer's ring +3
+A_FIN_3014	agility ring +3
+A_FIN_3015	skull ring +3
+A_FIN_3016	life ring +3
+A_FIN_3017	catholicon ring +3
+A_FIN_3018	godess ring +3
+A_FOO_3001	fishnet stockings +3
+A_SHO_3001	springheel boots +3
+A_SHO_3002	caligae of clarity +3
+A_SHO_3003	angel's sandals +3
+A_SHO_3004	archangel's boots +3
+A_SHO_3005	general's boots +3
+A_SHO_3006	field marshal's footwear +3
+A_OTH_3001	gemma's charm +3
+A_OTH_3002	bunny tail +3
+A_OTH_3003	dragon scale +3
+A_OTH_3004	garter +3
+A_OTH_3005	tough guy tattoo +3
+A_OTH_3006	utility belt +3
+A_OTH_3007	rosary +3
+A_OTH_3008	bling-bling belt +3
+A_OTH_3009	titan belt +3
+A_OTH_3010	sorcerer's stone +3
+A_OTH_3011	holy talisman +3
+A_OTH_3012	devil's tail +3
+A_OTH_3013	ruby of protection +3
+A_OTH_3014	earthwyrm's eye +3
+A_OTH_3015	lucky dragon's wing +3
+A_OTH_3016	sovereign seal +3
+A_OTH_3017	venus'tear +3
+A_OTH_3018	monarchic mark +3
+A_OTH_3019	elfin charm +3
+A_OTH_3020	null +3
+A_OTH_3021	null +3
+A_OTH_3022	natty cravat +3
+A_OTH_3023	suave scarf +3
+A_OTH_3024	gemma's eternal charm +3
+A_OTH_3025	ogler's digest +3
+A_OTH_3026	ring of changes +3
+A_OTH_3027	healer +3
+A_OTH_3028	supplicant +3
+A_OTH_3029	assassin +3
+A_OTH_3030	mystic +3
+A_OTH_3031	vanguard +3
+A_OTH_3032	shield-bearer +3
+A_OTH_3033	warlock +3
+A_OTH_3034	trickster +3
+A_OTH_3035	traveller's hood +3
+A_OTH_3036	bell's bow +3

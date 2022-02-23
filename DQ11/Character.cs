@@ -14,8 +14,8 @@ namespace DQ11
 
 		public Character(uint address)
 		{
-			Name = SaveData.Instance().ReadText(address + 28, 6 * 2, System.Text.Encoding.Unicode);
-			mAddress = address + 28 + (uint)Name.Length * 2;
+			Name = SaveData.Instance().ReadText(address + 28, 10, System.Text.Encoding.ASCII); //changed to ASCII for localized names
+			mAddress = address + 27 + (uint)Name.Length; // adjusted for correct offset + correct name length adjustment
 		}
 
 		public uint Lv
