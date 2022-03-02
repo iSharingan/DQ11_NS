@@ -53,7 +53,7 @@ namespace DQ11
 			set
 			{
 				uint address = CalcAddress();
-				Util.WriteNumber(address, 4, value, 99, 0);
+				Util.WriteNumber(address, 4, value, SaveData.Instance().ReadNumber(address+4, 4), 0);//now dynamicly pulls max stack value to allow for certain edits
 			}
 		}
 
