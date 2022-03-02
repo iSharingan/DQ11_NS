@@ -9,6 +9,8 @@ namespace DQ11
 {
 	class ViewModel
 	{
+        public uint moneyaddr;
+        public uint bankaddr;
 		public ObservableCollection<Character> Party { get; set; } = new ObservableCollection<Character>();
 		public Bag Items { get; set; } = new Bag();//item bag
         public Bag EItems { get; set; } = new Bag();//equipment bag
@@ -21,9 +23,14 @@ namespace DQ11
 			foreach(var item in SaveData.Instance().FindAddress("JackFriendGameCharacter", 0))
 			{
 				Party.Add(new Character(item));
-			}
+                moneyaddr = Party[0].sAddress - 41;
+                bankaddr = Party[0].sAddress - 33;
+            }
+            
 
-			var itemIndex = SaveData.Instance().FindAddress("DLC_07", 0);
+
+            
+            var itemIndex = SaveData.Instance().FindAddress("DLC_07", 0);
 			if (itemIndex.Count == 0) return;
 			uint address = itemIndex[0] + 11;
 
@@ -43,5 +50,17 @@ namespace DQ11
             address += 4;
             address = CItems.Create(address);//perfectionist pearls, mini medals, and casino tokens
         }
-	}
+
+        public uint Money
+        {
+            get { return SaveData.Instance().ReadNumber(moneyaddr, 4); }
+            set { Util.WriteNumber(moneyaddr, 4, value, 9999999, 0); }
+        }
+
+        public uint Bank
+        {
+            get { return SaveData.Instance().ReadNumber(bankaddr, 4)/1000; }
+            set { Util.WriteNumber(bankaddr, 4, value*1000, 9999000, 0); }
+        }
+    }
 }

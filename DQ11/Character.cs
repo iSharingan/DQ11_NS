@@ -9,11 +9,13 @@ namespace DQ11
 	class Character
 	{
 		private readonly uint mAddress;
+        public uint sAddress;
 		public Bag Inventory { get; set; } = new Bag();
 		public String Name { get; private set; }
 
 		public Character(uint address)
 		{
+            sAddress = address;
 			Name = SaveData.Instance().ReadText(address + 28, 10, System.Text.Encoding.ASCII); //changed to ASCII for localized names
 			mAddress = address + 27 + (uint)Name.Length; // adjusted for correct offset + correct name length adjustment
 		}

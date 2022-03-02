@@ -178,11 +178,28 @@
                 </ListBox>
             </TabItem>
             <TabItem Header="Misc">
-                <ListBox x:Name="ListBoxcurrency" ItemsSource="{Binding CItems.Items}">
-                    <ListBox.Resources>
-                        <local:ItemIDtoNameConverter x:Key="ItemIDtoNameConverter"/>
-                    </ListBox.Resources>
-                    <!--
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="Money" HorizontalAlignment="Left" HorizontalContentAlignment="Center"/>
+                        <TextBox Text="{Binding Path=Money, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Right" Width="100" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="0,0,47,2"/>
+                        <Label Content="Bank" Grid.Column="1" HorizontalAlignment="Left"/>
+                        <TextBox Grid.Column="1" Text="{Binding Path=Bank, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Width="71" Margin="36,0,0,2" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+                        <Label Content="000" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="103,0,0,0"/>
+                    </Grid>
+                    <ListBox x:Name="ListBoxcurrency" ItemsSource="{Binding CItems.Items}" Grid.Row="1">
+                        <ListBox.Resources>
+                            <local:ItemIDtoNameConverter x:Key="ItemIDtoNameConverter"/>
+                        </ListBox.Resources>
+                        <!--
                     <ListBox.ContextMenu>
                         <ContextMenu>
                             <MenuItem Header="Append" Click="ListBoxMenuItemAppend_Click"/>
@@ -190,20 +207,21 @@
                         </ContextMenu>
                     </ListBox.ContextMenu>
                     -->
-                    <ListBox.ItemTemplate>
-                        <DataTemplate>
-                            <StackPanel Orientation="Horizontal">
-                                <Label Content="Count : "/>
-                                <TextBox Text="{Binding Count, UpdateSourceTrigger=PropertyChanged}" Width="40"/>
-                                <!-- Not going to allow changing currency items
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Label Content="Count : "/>
+                                    <TextBox Text="{Binding Count, UpdateSourceTrigger=PropertyChanged}" Width="40"/>
+                                    <!-- Not going to allow changing currency items
                                 <Button Content="..." Click="ButtonItemChoice_Click"/>
                                 -->
-                                <Label Content="Name: "/>
-                                <Label Content="{Binding Name, Converter={StaticResource ItemIDtoNameConverter}}"/>
-                            </StackPanel>
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
+                                    <Label Content="Name: "/>
+                                    <Label Content="{Binding Name, Converter={StaticResource ItemIDtoNameConverter}}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
             </TabItem>
         </TabControl>
     </DockPanel>

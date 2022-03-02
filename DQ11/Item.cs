@@ -66,7 +66,7 @@ namespace DQ11
 			}
 		}
 
-		public uint BBB
+		public uint Equipped
 		{
 			get
 			{
