@@ -193,7 +193,7 @@
                         <TextBox Text="{Binding Path=Money, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Right" Width="100" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="0,0,47,2"/>
                         <Label Content="Bank" Grid.Column="1" HorizontalAlignment="Left"/>
                         <TextBox Grid.Column="1" Text="{Binding Path=Bank, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Width="71" Margin="36,0,0,2" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
-                        <Label Content="000" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="103,0,0,0"/>
+                        <Label Content="000" Grid.Column="1" HorizontalAlignment="Left" Margin="103,0,0,0" VerticalContentAlignment="Center"/>
                     </Grid>
                     <ListBox x:Name="ListBoxcurrency" ItemsSource="{Binding CItems.Items}" Grid.Row="1">
                         <ListBox.Resources>
@@ -221,6 +221,36 @@
                             </DataTemplate>
                         </ListBox.ItemTemplate>
                     </ListBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Draconian Settings">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="10*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Currently only works on 3D mode saves" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" HorizontalContentAlignment="Center" Margin="0,-5,0,0"/>
+                    <CheckBox Content="No Shopping" Grid.Column="1" Grid.Row="1" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ1, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="No Armor" Grid.Column="1" Grid.Row="2" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ2, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="Reduced Experience from Easy Fights" Grid.Column="1" Grid.Row="3" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ7, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="All Enemies Are Super Strong" Grid.Column="1" Grid.Row="4" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ6, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="Shypox" Grid.Column="1" Grid.Row="5" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ4, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="Super Shypox" Grid.Column="1" Grid.Row="6" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ3, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="Townsfolk Talk Tripe" Grid.Column="1" Grid.Row="7" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ8, UpdateSourceTrigger=PropertyChanged}"/>
+                    <CheckBox Content="Party Wiped Out if Protagonist Perishes" Grid.Column="1" Grid.Row="8" VerticalContentAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding Path=DQ5, UpdateSourceTrigger=PropertyChanged}"/>
                 </Grid>
             </TabItem>
         </TabControl>

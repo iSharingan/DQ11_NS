@@ -11,7 +11,8 @@ namespace DQ11
 	{
         public uint moneyaddr;
         public uint bankaddr;
-		public ObservableCollection<Character> Party { get; set; } = new ObservableCollection<Character>();
+        public uint DQaddress;
+        public ObservableCollection<Character> Party { get; set; } = new ObservableCollection<Character>();
 		public Bag Items { get; set; } = new Bag();//item bag
         public Bag EItems { get; set; } = new Bag();//equipment bag
         public Bag SItems { get; set; } = new Bag();//story items bag
@@ -26,9 +27,10 @@ namespace DQ11
                 moneyaddr = Party[0].sAddress - 41;
                 bankaddr = Party[0].sAddress - 33;
             }
-            
 
-
+            var DQIndex = SaveData.Instance().FindAddress("DLC_00", 0);
+            if (DQIndex.Count == 0) return;
+            DQaddress = DQIndex[0] - 48;//No shopping offset. Other 9 seem to be mixed around at +0x04 each from here
             
             var itemIndex = SaveData.Instance().FindAddress("DLC_07", 0);
 			if (itemIndex.Count == 0) return;
@@ -61,6 +63,54 @@ namespace DQ11
         {
             get { return SaveData.Instance().ReadNumber(bankaddr, 4)/1000; }
             set { Util.WriteNumber(bankaddr, 4, value*1000, 9999000, 0); }
+        }
+
+        public uint DQ1 //No Shopping - Checkbox 1
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress, 4); }
+            set { Util.WriteNumber(DQaddress, 4, value, 1, 0); }
+        }
+
+        public uint DQ2 //No Armor - Checkbox 2
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 4, 4); }
+            set { Util.WriteNumber(DQaddress + 4, 4, value, 1, 0); }
+        }
+
+        public uint DQ3 //Super Shypox - Checkbox 6
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 8, 4); }
+            set { Util.WriteNumber(DQaddress + 8, 4, value, 1, 0); }
+        }
+
+        public uint DQ4 //Shypox - Checkbox 5
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 12, 4); }
+            set { Util.WriteNumber(DQaddress + 12, 4, value, 1, 0); }
+        }
+
+        public uint DQ5 //Party Wiped Out if Protagonist Perishes - Checkbox 8
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 16, 4); }
+            set { Util.WriteNumber(DQaddress + 16, 4, value, 1, 0); }
+        }
+
+        public uint DQ6 //All Enemies are Super Strong - Checkbox 4
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 20, 4); }
+            set { Util.WriteNumber(DQaddress + 20, 4, value, 1, 0); }
+        }
+
+        public uint DQ7 //Reduced Experience from Easy Fights - Checkbox 3
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 24, 4); }
+            set { Util.WriteNumber(DQaddress + 24, 4, value, 1, 0); }
+        }
+
+        public uint DQ8 //Townsfolk Talk Tripe - Checkbox 7
+        {
+            get { return SaveData.Instance().ReadNumber(DQaddress + 28, 4); }
+            set { Util.WriteNumber(DQaddress + 28, 4, value, 1, 0); }
         }
     }
 }
