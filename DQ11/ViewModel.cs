@@ -21,7 +21,7 @@ namespace DQ11
 
         public ViewModel()
 		{
-			foreach(var item in SaveData.Instance().FindAddress("JackFriendGameCharacter", 0))
+            foreach (var item in SaveData.Instance().FindAddress("JackFriendGameCharacter", 0))
 			{
 				Party.Add(new Character(item));
                 moneyaddr = Party[0].sAddress - 41;
@@ -42,15 +42,15 @@ namespace DQ11
 				address += 4;
 			}
 
-			address = Items.Create(address);
+			address = Items.Create(address);//Item bag
             address += 4;
-            address = EItems.Create(address);
+            address = EItems.Create(address);//Equipment bag
             address += 4;
-            address = SItems.Create(address);
+            address = SItems.Create(address);//Story Items
             address += 4;
-            address = RItems.Create(address);//only used to incriment offset for now
+            address = RItems.Create(address);//Recipe Items. only used to increment offset for now
             address += 4;
-            address = CItems.Create(address);//perfectionist pearls, mini medals, and casino tokens
+            address = CItems.Create(address);//Currency itmes. perfectionist pearls, mini medals, and casino tokens. Gold/Bank ammounts are handled elsewhere.
         }
 
         public uint Money

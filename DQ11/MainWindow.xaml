@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DQ11"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="DQ11S SaveEditor(Nintendo Switch)" Height="450" Width="600">
+        Title="DQXIS SaveEditor (Nintendo Switch/PC/XBOne/PS4)" Height="450" Width="600">
     <Window.DataContext>
         <local:ViewModel/>
     </Window.DataContext>
@@ -33,6 +33,7 @@
                     <ListBox x:Name="ListBoxParty" ItemsSource="{Binding Party}" DisplayMemberPath="Name"/>
                     <Grid Grid.Column="1">
                         <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
                             <ColumnDefinition/>
                             <ColumnDefinition/>
                         </Grid.ColumnDefinitions>
@@ -51,37 +52,49 @@
                             <RowDefinition/>
                             <RowDefinition/>
                             <RowDefinition/>
+                            <RowDefinition/>
                         </Grid.RowDefinitions>
                         <Label Content="Lv"/>
-                        <TextBox Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Lv, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Lv, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="2" ToolTip="Only edit to reduce level (remeber to reduce Exp, too). To increase level, edit Exp instead and let the game update all your stats"/>
                         <Label Grid.Row="1" Content="Exp"/>
-                        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Exp, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Exp, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="2"/>
                         <Label Grid.Row="2" Content="Curent HP"/>
-                        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.HP, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="4" Content="MaxHP"/>
-                        <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.MaxHP, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.HP, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="2"/>
                         <Label Grid.Row="3" Content="Current MP"/>
-                        <TextBox Grid.Row="3" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.MP, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1"/>
-                        <Label Grid.Row="5" Content="MaxMP"/>
-                        <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.MaxMP, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="6" Content="Attack"/>
-                        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Attack, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="7" Content="Defense"/>
-                        <TextBox Grid.Row="7" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Defense, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="8" Content="Magic Might"/>
-                        <TextBox Grid.Row="8" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.AttackMagic, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="9" Content="Magic Mending"/>
-                        <TextBox Grid.Row="9" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.RecoveryMagic, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="10" Content="Agility"/>
-                        <TextBox Grid.Row="10" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Speed, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="11" Content="Deftness"/>
-                        <TextBox Grid.Row="11" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Skillful, UpdateSourceTrigger=PropertyChanged}"/>
-                        <Label Grid.Row="12" Content="Charm"/>
-                        <TextBox Grid.Row="12" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Charm, UpdateSourceTrigger=PropertyChanged}"/>
-                        <!-- Not Ready Yet
-                        <Label Grid.Row="13" Content="Skill Points"/>
-                        <TextBox Grid.Row="13" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.Skill, UpdateSourceTrigger=PropertyChanged}"/>
-                        -->
+                        <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.MP, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="2"/>
+                        <Label Grid.Row="4" Content="Stat Name" FontWeight="Bold"/>
+                        <Label Grid.Row="4" Grid.Column="1" Content="Base" FontWeight="Bold" ToolTip="Automatically calculated by game as your level changes"/>
+                        <Label Grid.Row="4" Grid.Column="2" Content="Seed" FontWeight="Bold" ToolTip="Acquired from consumed seeds or from certain quests/events"/>
+                        <Label Grid.Row="5" Content="MaxHP"/>
+                        <Label Grid.Row="5" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.MaxHP}"/>
+                        <TextBox Grid.Row="5" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sMaxHP, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="6" Content="MaxMP"/>
+                        <Label Grid.Row="6" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.MaxMP}"/>
+                        <TextBox Grid.Row="6" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sMaxMP, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="7" Content="Attack"/>
+                        <Label Grid.Row="7" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.Attack}"/>
+                        <TextBox Grid.Row="7" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sAttack, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="8" Content="Defense"/>
+                        <Label Grid.Row="8" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.Defense}"/>
+                        <TextBox Grid.Row="8" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sDefense, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="9" Content="Magic Might"/>
+                        <Label Grid.Row="9" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.AttackMagic}"/>
+                        <TextBox Grid.Row="9" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sAttackMagic, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="10" Content="Magic Mending"/>
+                        <Label Grid.Row="10" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.RecoveryMagic}"/>
+                        <TextBox Grid.Row="10" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sRecoveryMagic, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="11" Content="Agility"/>
+                        <Label Grid.Row="11" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.Speed}"/>
+                        <TextBox Grid.Row="11" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sSpeed, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="12" Content="Deftness"/>
+                        <Label Grid.Row="12" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.Skillful}"/>
+                        <TextBox Grid.Row="12" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sSkillful, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="13" Content="Charm"/>
+                        <Label Grid.Row="13" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.Charm}"/>
+                        <TextBox Grid.Row="13" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sCharm, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Label Grid.Row="14" Content="Skill Points"/>
+                        <Label Grid.Row="14" Grid.Column="1" Content="{Binding ElementName=ListBoxParty, Path=SelectedItem.Skill}" ToolTip="Won't reflect Seed value edits until after level up in-game"/>
+                        <TextBox Grid.Row="14" Grid.Column="2" Text="{Binding ElementName=ListBoxParty, Path=SelectedItem.sSkill, UpdateSourceTrigger=PropertyChanged}"/>
                     </Grid>
                     <ListBox Grid.Column="2" ItemsSource="{Binding ElementName=ListBoxParty, Path=SelectedItem.Inventory.Items}">
                         <ListBox.Resources>
@@ -152,7 +165,7 @@
                 </ListBox>
             </TabItem>
             <TabItem Header="Important Items">
-                <ListBox x:Name="ListBoxstory" ItemsSource="{Binding IItems.Items}">
+                <ListBox x:Name="ListBoxstory" ItemsSource="{Binding SItems.Items}">
                     <ListBox.Resources>
                         <local:ItemIDtoNameConverter x:Key="ItemIDtoNameConverter"/>
                     </ListBox.Resources>
@@ -167,8 +180,6 @@
                     <ListBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
-                                <Label Content="Count : "/>
-                                <TextBox Text="{Binding Count, UpdateSourceTrigger=PropertyChanged}" Width="40"/>
                                 <Button Content="..." Click="ButtonItemChoice_Click"/>
                                 <Label Content="Name: "/>
                                 <Label Content="{Binding Name, Converter={StaticResource ItemIDtoNameConverter}}"/>

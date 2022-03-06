@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +22,7 @@ namespace DQ11
 	/// </summary>
 	public partial class MainWindow : Window
 	{
-		public MainWindow()
+        public MainWindow()
 		{
 			InitializeComponent();
 		}
@@ -93,7 +94,8 @@ namespace DQ11
 			if (dlg.ShowDialog() == false) return;
 
 			SaveData.Instance().Open(dlg.FileName, force);
-			DataContext = new ViewModel();
-		}
+            DataContext = new ViewModel();
+            this.Title = "DQXIS SaveEditor (Editing " + System.IO.Path.GetFileName(dlg.FileName) + ")";
+        }
 	}
 }
