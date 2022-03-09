@@ -1200,77 +1200,77 @@ E_HEL_1028	Sun Crown +1
 E_HEL_1029	Yggdrasil Crown +1
 E_HEL_1030	Drustan's Helm +1
 E_HEL_1031	Apollo's Crown +1
-E_CLO_1001	NULL (clo 1 +1)
-E_CLO_1002	NULL (clo 2 +1)
-E_CLO_1003	NULL (clo 3 +1)
-E_CLO_1004	NULL (clo 4 +1)
-E_CLO_1005	NULL (clo 5 +1)
-E_CLO_1006	NULL (clo 6 +1)
-E_CLO_1007	NULL (clo 7 +1)
+E_CLO_1001	Mardi Garb +1
+E_CLO_1002	Plain Clothes +1
+E_CLO_1003	Wayfarer's Clothes +1
+E_CLO_1004	Boxer Shorts +1
+E_CLO_1005	Templar's Uniform +1
+E_CLO_1006	Leather Dress +1
+E_CLO_1007	Leather Cape +1
 E_CLO_1008	NULL (clo 8 +1)
-E_CLO_1009	NULL (clo 9 +1)
-E_CLO_1010	NULL (clo 10 +1)
-E_CLO_1011	NULL (clo 11 +1)
-E_CLO_1012	NULL (clo 12 +1)
-E_CLO_1013	NULL (clo 13 +1)
-E_CLO_1014	NULL (clo 14 +1)
-E_CLO_1015	NULL (clo 15 +1)
-E_CLO_1016	NULL (clo 16 +1)
-E_CLO_1017	NULL (clo 17 +1)
-E_CLO_1018	NULL (clo 18 +1)
-E_CLO_1019	NULL (clo 19 +1)
-E_CLO_1020	NULL (clo 20 +1)
-E_CLO_1021	NULL (clo 21 +1)
-E_CLO_1022	NULL (clo 22 +1)
-E_CLO_1023	NULL (clo 23 +1)
-E_CLO_1024	NULL (clo 24 +1)
-E_CLO_1025	NULL (clo 25 +1)
-E_CLO_1026	NULL (clo 26 +1)
-E_CLO_1027	NULL (clo 27 +1)
-E_CLO_1028	NULL (clo 28 +1)
-E_CLO_1029	NULL (clo 29 +1)
+E_CLO_1009	Fur Poncho +1
+E_CLO_1010	Cloak of Evasion +1
+E_CLO_1011	Posh Waistcoat +1
+E_CLO_1012	Pretty Pinny +1
+E_CLO_1013	Dainty Dress +1
+E_CLO_1014	Smart Suit +1
+E_CLO_1015	Silk Bustier +1
+E_CLO_1016	Spangled Dress +1
+E_CLO_1017	Magical Skirt +1
+E_CLO_1018	Velvet Cape +1
+E_CLO_1019	Dragon Dojo Duds +1
+E_CLO_1020	Uniforme de l'Academie +1
+E_CLO_1021	Hairy Vest +1
+E_CLO_1022	Strongsam +1
+E_CLO_1023	Shimmering Dress +1
+E_CLO_1024	Twinkling Tuxedo +1
+E_CLO_1025	Rogue's Robes +1
+E_CLO_1026	Macabre Mantle +1
+E_CLO_1027	Saintess Dress +1
+E_CLO_1028	Dancer's Costume +1
+E_CLO_1029	Divine Bustier +1
 E_CLO_1030	NULL (clo 30 +1)
 E_CLO_1031	NULL (clo 31 +1)
 E_CLO_1032	NULL (clo 32 +1)
-E_CLO_1033	NULL (clo 33 +1)
-E_CLO_1034	NULL (clo 34 +1)
-E_CLO_1035	NULL (clo 35 +1)
-E_CLO_1036	NULL (clo 36 +1)
-E_CLO_1037	NULL (clo 37 +1)
-E_CLO_1038	NULL (clo 38 +1)
-E_CLO_1039	NULL (clo 39 +1)
-E_CLO_1040	NULL (clo 40 +1)
+E_CLO_1033	Scandalous Swimsuit +1
+E_CLO_1034	Agility Gilet +1
+E_CLO_1035	Swindler's Stole +1
+E_CLO_1036	Cat Suit +1
+E_CLO_1037	Dapper Doublet +1
+E_CLO_1038	Drasilian Dress Coat +1
+E_CLO_1039	General's Jacket +1
+E_CLO_1040	Star's Suit +1
 E_CLO_1041	NULL (clo 41 +1)
-E_CLO_1042	NULL (clo 42 +1)
-E_CLO_1043	NULL (clo 43 +1)
-E_CLO_1044	NULL (clo 44 +1)
-E_CLO_1045	NULL (clo 45 +1)
-E_CLO_1046	NULL (clo 46 +1)
+E_CLO_1042	Combat Costume +1
+E_CLO_1043	Brigandine +1
+E_CLO_1044	Liquid Metal Jacket +1
+E_CLO_1045	Superstar's Suit +1
+E_CLO_1046	Freebooter's Bolero +1
 E_CLO_1047	NULL (clo 47 +1)
-E_CLO_1048	NULL (clo 48 +1)
-E_CLO_1049	NULL (clo 49 +1)
-E_CLO_1050	NULL (clo 50 +1)
-E_CLO_1051	NULL (clo 51 +1)
-E_CLO_1052	NULL (clo 52 +1)
-E_CLO_1053	NULL (clo 53 +1)
-E_CLO_1054	NULL (clo 54 +1)
-E_CLO_1055	NULL (clo 55 +1)
-E_CLO_1056	NULL (clo 56 +1)
-E_CLO_1057	NULL (clo 57 +1)
-E_CLO_1058	NULL (clo 58 +1)
-E_CLO_1059	NULL (clo 59 +1)
-E_CLO_1060	NULL (clo 60 +1)
-E_CLO_1061	NULL (clo 61 +1)
-E_CLO_1062	NULL (clo 62 +1)
-E_CLO_1063	NULL (clo 63 +1)
-E_CLO_1064	NULL (clo 64 +1)
-E_CLO_1065	NULL (clo 65 +1)
-E_CLO_1066	NULL (clo 66 +1)
-E_CLO_1067	NULL (clo 67 +1)
-E_CLO_1068	NULL (clo 68 +1)
-E_CLO_1069	NULL (clo 69 +1)
-E_CLO_1070	NULL (clo 70 +1)
-E_CLO_1071	NULL (clo 71 +1)
+E_CLO_1048	Dragonskin Jacket +1
+E_CLO_1049	Stellar Suit +1
+E_CLO_1050	Metal King Jacket +1
+E_CLO_1051	Exotoga +1
+E_CLO_1052	Erdwin's Tunic +1
+E_CLO_1053	Pirate King's Coat +1
+E_CLO_1054	Swindler King's Stole +1
+E_CLO_1055	Serenica's Surplice +1
+E_CLO_1056	Sacred Raiment +1
+E_CLO_1057	Glad Rags +1
+E_CLO_1058	Dashing Doublet +1
+E_CLO_1059	Xenlon Gown +1
+E_CLO_1060	Pallium Regale +1
+E_CLO_1061	Yggdrasil Dress Coat +1
+E_CLO_1062	Field Marshal's Finery +1
+E_CLO_1063	Cobblestone Clobber +1
+E_CLO_1064	Bunny Suit +1
+E_CLO_1065	Corsair's Coat +1
+E_CLO_1066	Potentate's Pallium +1
+E_CLO_1067	Gladder Rags +1
+E_CLO_1068	Hot Bikini +1
+E_CLO_1069	Arriviste's Vest +1
+E_CLO_1070	Elevating Vest +1
+E_CLO_1071	Vest for Success +1
 E_CLO_1072	NULL (clo 72 +1)
 E_CLO_1073	NULL (clo 73 +1)
 E_CLO_1301	NULL (clo 301 +1)
@@ -1280,68 +1280,68 @@ E_CLO_1304	NULL (clo 304 +1)
 E_CLO_1305	NULL (clo 305 +1)
 E_CLO_1306	NULL (clo 306 +1)
 E_CLO_1307	NULL (clo 307 +1)
-E_CLO_1995	NULL (clo 995 +1)
-E_CLO_1996	NULL (clo 996 +1)
-E_CLO_1997	NULL (clo 997 +1)
-E_CLO_1998	NULL (clo 998 +1)
-E_ARM_1001	NULL (arm 1 +1)
-E_ARM_1002	NULL (arm 2 +1)
-E_ARM_1003	NULL (arm 3 +1)
-E_ARM_1004	NULL (arm 4 +1)
-E_ARM_1005	NULL (arm 5 +1)
-E_ARM_1006	NULL (arm 6 +1)
-E_ARM_1007	NULL (arm 7 +1)
-E_ARM_1008	NULL (arm 8 +1)
-E_ARM_1009	NULL (arm 9 +1)
-E_ARM_1010	NULL (arm 10 +1)
-E_ARM_1011	NULL (arm 11 +1)
-E_ARM_1012	NULL (arm 12 +1)
-E_ARM_1013	NULL (arm 13 +1)
-E_ARM_1014	NULL (arm 14 +1)
-E_ARM_1015	NULL (arm 15 +1)
-E_ARM_1016	NULL (arm 16 +1)
-E_ARM_1017	NULL (arm 17 +1)
-E_ARM_1018	NULL (arm 18 +1)
-E_ARM_1019	NULL (arm 19 +1)
-E_ARM_1020	NULL (arm 20 +1)
-E_ARM_1021	NULL (arm 21 +1)
+E_CLO_1995	Black Cat Costume +1
+E_CLO_1996	Divine Dancer's Costume +1
+E_CLO_1997	Uniforme Chic de l'Academie +1
+E_CLO_1998	Crimson Catsuit +1
+E_ARM_1001	Leather Armour +1
+E_ARM_1002	Scale Armour +1
+E_ARM_1003	Chain Mail +1
+E_ARM_1004	Bronze Armour +1
+E_ARM_1005	Iron Cuirass +1
+E_ARM_1006	Iron Armour +1
+E_ARM_1007	Tortoise Shell +1
+E_ARM_1008	Full Plate Armour +1
+E_ARM_1009	Zombie Mail +1
+E_ARM_1010	Silver Cuirass +1
+E_ARM_1011	Silver Mail +1
+E_ARM_1012	Heavy Armour +1
+E_ARM_1013	Magic Armour +1
+E_ARM_1014	Dancer's Mail +1
+E_ARM_1015	Dragon Mail +1
+E_ARM_1016	Spiked Armour +1
+E_ARM_1017	Platinum Mail +1
+E_ARM_1018	Bandit Mail +1
+E_ARM_1019	Mirror Armour +1
+E_ARM_1020	Metal Slime Armour +1
+E_ARM_1021	Drasilian Armour +1
 E_ARM_1022	NULL (arm 22 +1)
-E_ARM_1023	NULL (arm 23 +1)
-E_ARM_1024	NULL (arm 24 +1)
-E_ARM_1025	NULL (arm 25 +1)
-E_ARM_1026	NULL (arm 26 +1)
-E_ARM_1027	NULL (arm 27 +1)
-E_ARM_1028	NULL (arm 28 +1)
-E_ARM_1029	NULL (arm 29 +1)
-E_ARM_1030	NULL (arm 30 +1)
+E_ARM_1023	Gigant Armour +1
+E_ARM_1024	Liquid Metal Armour +1
+E_ARM_1025	Sacred Armour +1
+E_ARM_1026	Metal King Armour +1
+E_ARM_1027	Legendary Armour +1
+E_ARM_1028	Irwin's Armour +1
+E_ARM_1029	Drustan's Armour +1
+E_ARM_1030	Gallopitan Garb +1
 E_ARM_1301	NULL (arm 301 +1)
 E_ARM_1302	NULL (arm 302 +1)
 E_ARM_1303	NULL (arm 303 +1)
-E_ARM_1998	NULL (arm 998 +1)
-E_ROB_1001	NULL (rob 1 +1)
-E_ROB_1002	NULL (rob 2 +1)
-E_ROB_1003	NULL (rob 3 +1)
-E_ROB_1004	NULL (rob 4 +1)
-E_ROB_1005	NULL (rob 5 +1)
-E_ROB_1006	NULL (rob 6 +1)
-E_ROB_1007	NULL (rob 7 +1)
-E_ROB_1008	NULL (rob 8 +1)
-E_ROB_1009	NULL (rob 9 +1)
-E_ROB_1010	NULL (rob 10 +1)
-E_ROB_1011	NULL (rob 11 +1)
-E_ROB_1012	NULL (rob 12 +1)
-E_ROB_1013	NULL (rob 13 +1)
-E_ROB_1014	NULL (rob 14 +1)
-E_ROB_1015	NULL (rob 15 +1)
-E_ROB_1016	NULL (rob 16 +1)
-E_ROB_1017	NULL (rob 17 +1)
-E_ROB_1018	NULL (rob 18 +1)
-E_ROB_1019	NULL (rob 19 +1)
-E_ROB_1020	NULL (rob 20 +1)
-E_ROB_1021	NULL (rob 21 +1)
-E_ROB_1022	NULL (rob 22 +1)
-E_ROB_1023	NULL (rob 23 +1)
-E_ROB_1024	NULL (rob 24 +1)
+E_ARM_1998	Tectonic Plate +1
+E_ROB_1001	Silk Robe +1
+E_ROB_1002	Fizzle-Retardant Suit +1
+E_ROB_1003	Fizzle-Retardant Blouse +1
+E_ROB_1004	Robe of Serenity +1
+E_ROB_1005	Magic Vestment +1
+E_ROB_1006	Glombolero +1
+E_ROB_1007	Sage's Robe +1
+E_ROB_1008	Wizard's Robe +1
+E_ROB_1009	Witch's Robe +1
+E_ROB_1010	Prince's Pea Coat +1
+E_ROB_1011	King's Coat +1
+E_ROB_1012	Queen's Robe +1
+E_ROB_1013	Emperor's Attire +1
+E_ROB_1014	Empress's Robe +1
+E_ROB_1015	Warrior Princess's Dress +1
+E_ROB_1016	Angel's Robe +1
+E_ROB_1017	Crimson Robe +1
+E_ROB_1018	Flowing Dress +1
+E_ROB_1019	Dark Robe +1
+E_ROB_1020	Dragon Robe +1
+E_ROB_1021	Seraph's Robe +1
+E_ROB_1022	Gown of Eternity +1
+E_ROB_1023	Minerva's Raiment +1
+E_ROB_1024	Princess's Robe +1
 E_ROB_1301	NULL (rob 301 +1)
 E_ROB_1302	NULL (rob 302 +1)
 A_FAC_1001	Slime Earrings +1
@@ -1844,77 +1844,77 @@ E_HEL_2028	Sun Crown +2
 E_HEL_2029	Yggdrasil Crown +2
 E_HEL_2030	Drustan's Helm +2
 E_HEL_2031	Apollo's Crown +2
-E_CLO_2001	NULL (clo 1 +2)
-E_CLO_2002	NULL (clo 2 +2)
-E_CLO_2003	NULL (clo 3 +2)
-E_CLO_2004	NULL (clo 4 +2)
-E_CLO_2005	NULL (clo 5 +2)
-E_CLO_2006	NULL (clo 6 +2)
-E_CLO_2007	NULL (clo 7 +2)
+E_CLO_2001	Mardi Garb +2
+E_CLO_2002	Plain Clothes +2
+E_CLO_2003	Wayfarer's Clothes +2
+E_CLO_2004	Boxer Shorts +2
+E_CLO_2005	Templar's Uniform +2
+E_CLO_2006	Leather Dress +2
+E_CLO_2007	Leather Cape +2
 E_CLO_2008	NULL (clo 8 +2)
-E_CLO_2009	NULL (clo 9 +2)
-E_CLO_2010	NULL (clo 10 +2)
-E_CLO_2011	NULL (clo 11 +2)
-E_CLO_2012	NULL (clo 12 +2)
-E_CLO_2013	NULL (clo 13 +2)
-E_CLO_2014	NULL (clo 14 +2)
-E_CLO_2015	NULL (clo 15 +2)
-E_CLO_2016	NULL (clo 16 +2)
-E_CLO_2017	NULL (clo 17 +2)
-E_CLO_2018	NULL (clo 18 +2)
-E_CLO_2019	NULL (clo 19 +2)
-E_CLO_2020	NULL (clo 20 +2)
-E_CLO_2021	NULL (clo 21 +2)
-E_CLO_2022	NULL (clo 22 +2)
-E_CLO_2023	NULL (clo 23 +2)
-E_CLO_2024	NULL (clo 24 +2)
-E_CLO_2025	NULL (clo 25 +2)
-E_CLO_2026	NULL (clo 26 +2)
-E_CLO_2027	NULL (clo 27 +2)
-E_CLO_2028	NULL (clo 28 +2)
-E_CLO_2029	NULL (clo 29 +2)
+E_CLO_2009	Fur Poncho +2
+E_CLO_2010	Cloak of Evasion +2
+E_CLO_2011	Posh Waistcoat +2
+E_CLO_2012	Pretty Pinny +2
+E_CLO_2013	Dainty Dress +2
+E_CLO_2014	Smart Suit +2
+E_CLO_2015	Silk Bustier +2
+E_CLO_2016	Spangled Dress +2
+E_CLO_2017	Magical Skirt +2
+E_CLO_2018	Velvet Cape +2
+E_CLO_2019	Dragon Dojo Duds +2
+E_CLO_2020	Uniforme de l'Academie +2
+E_CLO_2021	Hairy Vest +2
+E_CLO_2022	Strongsam +2
+E_CLO_2023	Shimmering Dress +2
+E_CLO_2024	Twinkling Tuxedo +2
+E_CLO_2025	Rogue's Robes +2
+E_CLO_2026	Macabre Mantle +2
+E_CLO_2027	Saintess Dress +2
+E_CLO_2028	Dancer's Costume +2
+E_CLO_2029	Divine Bustier +2
 E_CLO_2030	NULL (clo 30 +2)
 E_CLO_2031	NULL (clo 31 +2)
 E_CLO_2032	NULL (clo 32 +2)
-E_CLO_2033	NULL (clo 33 +2)
-E_CLO_2034	NULL (clo 34 +2)
-E_CLO_2035	NULL (clo 35 +2)
-E_CLO_2036	NULL (clo 36 +2)
-E_CLO_2037	NULL (clo 37 +2)
-E_CLO_2038	NULL (clo 38 +2)
-E_CLO_2039	NULL (clo 39 +2)
-E_CLO_2040	NULL (clo 40 +2)
+E_CLO_2033	Scandalous Swimsuit +2
+E_CLO_2034	Agility Gilet +2
+E_CLO_2035	Swindler's Stole +2
+E_CLO_2036	Cat Suit +2
+E_CLO_2037	Dapper Doublet +2
+E_CLO_2038	Drasilian Dress Coat +2
+E_CLO_2039	General's Jacket +2
+E_CLO_2040	Star's Suit +2
 E_CLO_2041	NULL (clo 41 +2)
-E_CLO_2042	NULL (clo 42 +2)
-E_CLO_2043	NULL (clo 43 +2)
-E_CLO_2044	NULL (clo 44 +2)
-E_CLO_2045	NULL (clo 45 +2)
-E_CLO_2046	NULL (clo 46 +2)
+E_CLO_2042	Combat Costume +2
+E_CLO_2043	Brigandine +2
+E_CLO_2044	Liquid Metal Jacket +2
+E_CLO_2045	Superstar's Suit +2
+E_CLO_2046	Freebooter's Bolero +2
 E_CLO_2047	NULL (clo 47 +2)
-E_CLO_2048	NULL (clo 48 +2)
-E_CLO_2049	NULL (clo 49 +2)
-E_CLO_2050	NULL (clo 50 +2)
-E_CLO_2051	NULL (clo 51 +2)
-E_CLO_2052	NULL (clo 52 +2)
-E_CLO_2053	NULL (clo 53 +2)
-E_CLO_2054	NULL (clo 54 +2)
-E_CLO_2055	NULL (clo 55 +2)
-E_CLO_2056	NULL (clo 56 +2)
-E_CLO_2057	NULL (clo 57 +2)
-E_CLO_2058	NULL (clo 58 +2)
-E_CLO_2059	NULL (clo 59 +2)
-E_CLO_2060	NULL (clo 60 +2)
-E_CLO_2061	NULL (clo 61 +2)
-E_CLO_2062	NULL (clo 62 +2)
-E_CLO_2063	NULL (clo 63 +2)
-E_CLO_2064	NULL (clo 64 +2)
-E_CLO_2065	NULL (clo 65 +2)
-E_CLO_2066	NULL (clo 66 +2)
-E_CLO_2067	NULL (clo 67 +2)
-E_CLO_2068	NULL (clo 68 +2)
-E_CLO_2069	NULL (clo 69 +2)
-E_CLO_2070	NULL (clo 70 +2)
-E_CLO_2071	NULL (clo 71 +2)
+E_CLO_2048	Dragonskin Jacket +2
+E_CLO_2049	Stellar Suit +2
+E_CLO_2050	Metal King Jacket +2
+E_CLO_2051	Exotoga +2
+E_CLO_2052	Erdwin's Tunic +2
+E_CLO_2053	Pirate King's Coat +2
+E_CLO_2054	Swindler King's Stole +2
+E_CLO_2055	Serenica's Surplice +2
+E_CLO_2056	Sacred Raiment +2
+E_CLO_2057	Glad Rags +2
+E_CLO_2058	Dashing Doublet +2
+E_CLO_2059	Xenlon Gown +2
+E_CLO_2060	Pallium Regale +2
+E_CLO_2061	Yggdrasil Dress Coat +2
+E_CLO_2062	Field Marshal's Finery +2
+E_CLO_2063	Cobblestone Clobber +2
+E_CLO_2064	Bunny Suit +2
+E_CLO_2065	Corsair's Coat +2
+E_CLO_2066	Potentate's Pallium +2
+E_CLO_2067	Gladder Rags +2
+E_CLO_2068	Hot Bikini +2
+E_CLO_2069	Arriviste's Vest +2
+E_CLO_2070	Elevating Vest +2
+E_CLO_2071	Vest for Success +2
 E_CLO_2072	NULL (clo 72 +2)
 E_CLO_2073	NULL (clo 73 +2)
 E_CLO_2301	NULL (clo 301 +2)
@@ -1924,68 +1924,68 @@ E_CLO_2304	NULL (clo 304 +2)
 E_CLO_2305	NULL (clo 305 +2)
 E_CLO_2306	NULL (clo 306 +2)
 E_CLO_2307	NULL (clo 307 +2)
-E_CLO_2995	NULL (clo 995 +2)
-E_CLO_2996	NULL (clo 996 +2)
-E_CLO_2997	NULL (clo 997 +2)
-E_CLO_2998	NULL (clo 998 +2)
-E_ARM_2001	NULL (arm 1 +2)
-E_ARM_2002	NULL (arm 2 +2)
-E_ARM_2003	NULL (arm 3 +2)
-E_ARM_2004	NULL (arm 4 +2)
-E_ARM_2005	NULL (arm 5 +2)
-E_ARM_2006	NULL (arm 6 +2)
-E_ARM_2007	NULL (arm 7 +2)
-E_ARM_2008	NULL (arm 8 +2)
-E_ARM_2009	NULL (arm 9 +2)
-E_ARM_2010	NULL (arm 10 +2)
-E_ARM_2011	NULL (arm 11 +2)
-E_ARM_2012	NULL (arm 12 +2)
-E_ARM_2013	NULL (arm 13 +2)
-E_ARM_2014	NULL (arm 14 +2)
-E_ARM_2015	NULL (arm 15 +2)
-E_ARM_2016	NULL (arm 16 +2)
-E_ARM_2017	NULL (arm 17 +2)
-E_ARM_2018	NULL (arm 18 +2)
-E_ARM_2019	NULL (arm 19 +2)
-E_ARM_2020	NULL (arm 20 +2)
-E_ARM_2021	NULL (arm 21 +2)
+E_CLO_2995	Black Cat Costume +2
+E_CLO_2996	Divine Dancer's Costume +2
+E_CLO_2997	Uniforme Chic de l'Academie +2
+E_CLO_2998	Crimson Catsuit +2
+E_ARM_2001	Leather Armour +2
+E_ARM_2002	Scale Armour +2
+E_ARM_2003	Chain Mail +2
+E_ARM_2004	Bronze Armour +2
+E_ARM_2005	Iron Cuirass +2
+E_ARM_2006	Iron Armour +2
+E_ARM_2007	Tortoise Shell +2
+E_ARM_2008	Full Plate Armour +2
+E_ARM_2009	Zombie Mail +2
+E_ARM_2010	Silver Cuirass +2
+E_ARM_2011	Silver Mail +2
+E_ARM_2012	Heavy Armour +2
+E_ARM_2013	Magic Armour +2
+E_ARM_2014	Dancer's Mail +2
+E_ARM_2015	Dragon Mail +2
+E_ARM_2016	Spiked Armour +2
+E_ARM_2017	Platinum Mail +2
+E_ARM_2018	Bandit Mail +2
+E_ARM_2019	Mirror Armour +2
+E_ARM_2020	Metal Slime Armour +2
+E_ARM_2021	Drasilian Armour +2
 E_ARM_2022	NULL (arm 22 +2)
-E_ARM_2023	NULL (arm 23 +2)
-E_ARM_2024	NULL (arm 24 +2)
-E_ARM_2025	NULL (arm 25 +2)
-E_ARM_2026	NULL (arm 26 +2)
-E_ARM_2027	NULL (arm 27 +2)
-E_ARM_2028	NULL (arm 28 +2)
-E_ARM_2029	NULL (arm 29 +2)
-E_ARM_2030	NULL (arm 30 +2)
+E_ARM_2023	Gigant Armour +2
+E_ARM_2024	Liquid Metal Armour +2
+E_ARM_2025	Sacred Armour +2
+E_ARM_2026	Metal King Armour +2
+E_ARM_2027	Legendary Armour +2
+E_ARM_2028	Irwin's Armour +2
+E_ARM_2029	Drustan's Armour +2
+E_ARM_2030	Gallopitan Garb +2
 E_ARM_2301	NULL (arm 301 +2)
 E_ARM_2302	NULL (arm 302 +2)
 E_ARM_2303	NULL (arm 303 +2)
-E_ARM_2998	NULL (arm 998 +2)
-E_ROB_2001	NULL (rob 1 +2)
-E_ROB_2002	NULL (rob 2 +2)
-E_ROB_2003	NULL (rob 3 +2)
-E_ROB_2004	NULL (rob 4 +2)
-E_ROB_2005	NULL (rob 5 +2)
-E_ROB_2006	NULL (rob 6 +2)
-E_ROB_2007	NULL (rob 7 +2)
-E_ROB_2008	NULL (rob 8 +2)
-E_ROB_2009	NULL (rob 9 +2)
-E_ROB_2010	NULL (rob 10 +2)
-E_ROB_2011	NULL (rob 11 +2)
-E_ROB_2012	NULL (rob 12 +2)
-E_ROB_2013	NULL (rob 13 +2)
-E_ROB_2014	NULL (rob 14 +2)
-E_ROB_2015	NULL (rob 15 +2)
-E_ROB_2016	NULL (rob 16 +2)
-E_ROB_2017	NULL (rob 17 +2)
-E_ROB_2018	NULL (rob 18 +2)
-E_ROB_2019	NULL (rob 19 +2)
-E_ROB_2020	NULL (rob 20 +2)
-E_ROB_2021	NULL (rob 21 +2)
-E_ROB_2022	NULL (rob 22 +2)
-E_ROB_2023	NULL (rob 23 +2)
-E_ROB_2024	NULL (rob 24 +2)
+E_ARM_2998	Tectonic Plate +2
+E_ROB_2001	Silk Robe +2
+E_ROB_2002	Fizzle-Retardant Suit +2
+E_ROB_2003	Fizzle-Retardant Blouse +2
+E_ROB_2004	Robe of Serenity +2
+E_ROB_2005	Magic Vestment +2
+E_ROB_2006	Glombolero +2
+E_ROB_2007	Sage's Robe +2
+E_ROB_2008	Wizard's Robe +2
+E_ROB_2009	Witch's Robe +2
+E_ROB_2010	Prince's Pea Coat +2
+E_ROB_2011	King's Coat +2
+E_ROB_2012	Queen's Robe +2
+E_ROB_2013	Emperor's Attire +2
+E_ROB_2014	Empress's Robe +2
+E_ROB_2015	Warrior Princess's Dress +2
+E_ROB_2016	Angel's Robe +2
+E_ROB_2017	Crimson Robe +2
+E_ROB_2018	Flowing Dress +2
+E_ROB_2019	Dark Robe +2
+E_ROB_2020	Dragon Robe +2
+E_ROB_2021	Seraph's Robe +2
+E_ROB_2022	Gown of Eternity +2
+E_ROB_2023	Minerva's Raiment +2
+E_ROB_2024	Princess's Robe +2
 E_ROB_2301	NULL (rob 301 +2)
 E_ROB_2302	NULL (rob 302 +2)
 A_FAC_2001	Slime Earrings +2
@@ -2488,77 +2488,77 @@ E_HEL_3028	Sun Crown +3
 E_HEL_3029	Yggdrasil Crown +3
 E_HEL_3030	Drustan's Helm +3
 E_HEL_3031	Apollo's Crown +3
-E_CLO_3001	NULL (clo 1 +3)
-E_CLO_3002	NULL (clo 2 +3)
-E_CLO_3003	NULL (clo 3 +3)
-E_CLO_3004	NULL (clo 4 +3)
-E_CLO_3005	NULL (clo 5 +3)
-E_CLO_3006	NULL (clo 6 +3)
-E_CLO_3007	NULL (clo 7 +3)
+E_CLO_3001	Mardi Garb +3
+E_CLO_3002	Plain Clothes +3
+E_CLO_3003	Wayfarer's Clothes +3
+E_CLO_3004	Boxer Shorts +3
+E_CLO_3005	Templar's Uniform +3
+E_CLO_3006	Leather Dress +3
+E_CLO_3007	Leather Cape +3
 E_CLO_3008	NULL (clo 8 +3)
-E_CLO_3009	NULL (clo 9 +3)
-E_CLO_3010	NULL (clo 10 +3)
-E_CLO_3011	NULL (clo 11 +3)
-E_CLO_3012	NULL (clo 12 +3)
-E_CLO_3013	NULL (clo 13 +3)
-E_CLO_3014	NULL (clo 14 +3)
-E_CLO_3015	NULL (clo 15 +3)
-E_CLO_3016	NULL (clo 16 +3)
-E_CLO_3017	NULL (clo 17 +3)
-E_CLO_3018	NULL (clo 18 +3)
-E_CLO_3019	NULL (clo 19 +3)
-E_CLO_3020	NULL (clo 20 +3)
-E_CLO_3021	NULL (clo 21 +3)
-E_CLO_3022	NULL (clo 22 +3)
-E_CLO_3023	NULL (clo 23 +3)
-E_CLO_3024	NULL (clo 24 +3)
-E_CLO_3025	NULL (clo 25 +3)
-E_CLO_3026	NULL (clo 26 +3)
-E_CLO_3027	NULL (clo 27 +3)
-E_CLO_3028	NULL (clo 28 +3)
-E_CLO_3029	NULL (clo 29 +3)
+E_CLO_3009	Fur Poncho +3
+E_CLO_3010	Cloak of Evasion +3
+E_CLO_3011	Posh Waistcoat +3
+E_CLO_3012	Pretty Pinny +3
+E_CLO_3013	Dainty Dress +3
+E_CLO_3014	Smart Suit +3
+E_CLO_3015	Silk Bustier +3
+E_CLO_3016	Spangled Dress +3
+E_CLO_3017	Magical Skirt +3
+E_CLO_3018	Velvet Cape +3
+E_CLO_3019	Dragon Dojo Duds +3
+E_CLO_3020	Uniforme de l'Academie +3
+E_CLO_3021	Hairy Vest +3
+E_CLO_3022	Strongsam +3
+E_CLO_3023	Shimmering Dress +3
+E_CLO_3024	Twinkling Tuxedo +3
+E_CLO_3025	Rogue's Robes +3
+E_CLO_3026	Macabre Mantle +3
+E_CLO_3027	Saintess Dress +3
+E_CLO_3028	Dancer's Costume +3
+E_CLO_3029	Divine Bustier +3
 E_CLO_3030	NULL (clo 30 +3)
 E_CLO_3031	NULL (clo 31 +3)
 E_CLO_3032	NULL (clo 32 +3)
-E_CLO_3033	NULL (clo 33 +3)
-E_CLO_3034	NULL (clo 34 +3)
-E_CLO_3035	NULL (clo 35 +3)
-E_CLO_3036	NULL (clo 36 +3)
-E_CLO_3037	NULL (clo 37 +3)
-E_CLO_3038	NULL (clo 38 +3)
-E_CLO_3039	NULL (clo 39 +3)
-E_CLO_3040	NULL (clo 40 +3)
+E_CLO_3033	Scandalous Swimsuit +3
+E_CLO_3034	Agility Gilet +3
+E_CLO_3035	Swindler's Stole +3
+E_CLO_3036	Cat Suit +3
+E_CLO_3037	Dapper Doublet +3
+E_CLO_3038	Drasilian Dress Coat +3
+E_CLO_3039	General's Jacket +3
+E_CLO_3040	Star's Suit +3
 E_CLO_3041	NULL (clo 41 +3)
-E_CLO_3042	NULL (clo 42 +3)
-E_CLO_3043	NULL (clo 43 +3)
-E_CLO_3044	NULL (clo 44 +3)
-E_CLO_3045	NULL (clo 45 +3)
-E_CLO_3046	NULL (clo 46 +3)
+E_CLO_3042	Combat Costume +3
+E_CLO_3043	Brigandine +3
+E_CLO_3044	Liquid Metal Jacket +3
+E_CLO_3045	Superstar's Suit +3
+E_CLO_3046	Freebooter's Bolero +3
 E_CLO_3047	NULL (clo 47 +3)
-E_CLO_3048	NULL (clo 48 +3)
-E_CLO_3049	NULL (clo 49 +3)
-E_CLO_3050	NULL (clo 50 +3)
-E_CLO_3051	NULL (clo 51 +3)
-E_CLO_3052	NULL (clo 52 +3)
-E_CLO_3053	NULL (clo 53 +3)
-E_CLO_3054	NULL (clo 54 +3)
-E_CLO_3055	NULL (clo 55 +3)
-E_CLO_3056	NULL (clo 56 +3)
-E_CLO_3057	NULL (clo 57 +3)
-E_CLO_3058	NULL (clo 58 +3)
-E_CLO_3059	NULL (clo 59 +3)
-E_CLO_3060	NULL (clo 60 +3)
-E_CLO_3061	NULL (clo 61 +3)
-E_CLO_3062	NULL (clo 62 +3)
-E_CLO_3063	NULL (clo 63 +3)
-E_CLO_3064	NULL (clo 64 +3)
-E_CLO_3065	NULL (clo 65 +3)
-E_CLO_3066	NULL (clo 66 +3)
-E_CLO_3067	NULL (clo 67 +3)
-E_CLO_3068	NULL (clo 68 +3)
-E_CLO_3069	NULL (clo 69 +3)
-E_CLO_3070	NULL (clo 70 +3)
-E_CLO_3071	NULL (clo 71 +3)
+E_CLO_3048	Dragonskin Jacket +3
+E_CLO_3049	Stellar Suit +3
+E_CLO_3050	Metal King Jacket +3
+E_CLO_3051	Exotoga +3
+E_CLO_3052	Erdwin's Tunic +3
+E_CLO_3053	Pirate King's Coat +3
+E_CLO_3054	Swindler King's Stole +3
+E_CLO_3055	Serenica's Surplice +3
+E_CLO_3056	Sacred Raiment +3
+E_CLO_3057	Glad Rags +3
+E_CLO_3058	Dashing Doublet +3
+E_CLO_3059	Xenlon Gown +3
+E_CLO_3060	Pallium Regale +3
+E_CLO_3061	Yggdrasil Dress Coat +3
+E_CLO_3062	Field Marshal's Finery +3
+E_CLO_3063	Cobblestone Clobber +3
+E_CLO_3064	Bunny Suit +3
+E_CLO_3065	Corsair's Coat +3
+E_CLO_3066	Potentate's Pallium +3
+E_CLO_3067	Gladder Rags +3
+E_CLO_3068	Hot Bikini +3
+E_CLO_3069	Arriviste's Vest +3
+E_CLO_3070	Elevating Vest +3
+E_CLO_3071	Vest for Success +3
 E_CLO_3072	NULL (clo 72 +3)
 E_CLO_3073	NULL (clo 73 +3)
 E_CLO_3301	NULL (clo 301 +3)
@@ -2568,68 +2568,68 @@ E_CLO_3304	NULL (clo 304 +3)
 E_CLO_3305	NULL (clo 305 +3)
 E_CLO_3306	NULL (clo 306 +3)
 E_CLO_3307	NULL (clo 307 +3)
-E_CLO_3995	NULL (clo 995 +3)
-E_CLO_3996	NULL (clo 996 +3)
-E_CLO_3997	NULL (clo 997 +3)
-E_CLO_3998	NULL (clo 998 +3)
-E_ARM_3001	NULL (arm 1 +3)
-E_ARM_3002	NULL (arm 2 +3)
-E_ARM_3003	NULL (arm 3 +3)
-E_ARM_3004	NULL (arm 4 +3)
-E_ARM_3005	NULL (arm 5 +3)
-E_ARM_3006	NULL (arm 6 +3)
-E_ARM_3007	NULL (arm 7 +3)
-E_ARM_3008	NULL (arm 8 +3)
-E_ARM_3009	NULL (arm 9 +3)
-E_ARM_3010	NULL (arm 10 +3)
-E_ARM_3011	NULL (arm 11 +3)
-E_ARM_3012	NULL (arm 12 +3)
-E_ARM_3013	NULL (arm 13 +3)
-E_ARM_3014	NULL (arm 14 +3)
-E_ARM_3015	NULL (arm 15 +3)
-E_ARM_3016	NULL (arm 16 +3)
-E_ARM_3017	NULL (arm 17 +3)
-E_ARM_3018	NULL (arm 18 +3)
-E_ARM_3019	NULL (arm 19 +3)
-E_ARM_3020	NULL (arm 20 +3)
-E_ARM_3021	NULL (arm 21 +3)
+E_CLO_3995	Black Cat Costume +3
+E_CLO_3996	Divine Dancer's Costume +3
+E_CLO_3997	Uniforme Chic de l'Academie +3
+E_CLO_3998	Crimson Catsuit +3
+E_ARM_3001	Leather Armour +3
+E_ARM_3002	Scale Armour +3
+E_ARM_3003	Chain Mail +3
+E_ARM_3004	Bronze Armour +3
+E_ARM_3005	Iron Cuirass +3
+E_ARM_3006	Iron Armour +3
+E_ARM_3007	Tortoise Shell +3
+E_ARM_3008	Full Plate Armour +3
+E_ARM_3009	Zombie Mail +3
+E_ARM_3010	Silver Cuirass +3
+E_ARM_3011	Silver Mail +3
+E_ARM_3012	Heavy Armour +3
+E_ARM_3013	Magic Armour +3
+E_ARM_3014	Dancer's Mail +3
+E_ARM_3015	Dragon Mail +3
+E_ARM_3016	Spiked Armour +3
+E_ARM_3017	Platinum Mail +3
+E_ARM_3018	Bandit Mail +3
+E_ARM_3019	Mirror Armour +3
+E_ARM_3020	Metal Slime Armour +3
+E_ARM_3021	Drasilian Armour +3
 E_ARM_3022	NULL (arm 22 +3)
-E_ARM_3023	NULL (arm 23 +3)
-E_ARM_3024	NULL (arm 24 +3)
-E_ARM_3025	NULL (arm 25 +3)
-E_ARM_3026	NULL (arm 26 +3)
-E_ARM_3027	NULL (arm 27 +3)
-E_ARM_3028	NULL (arm 28 +3)
-E_ARM_3029	NULL (arm 29 +3)
-E_ARM_3030	NULL (arm 30 +3)
+E_ARM_3023	Gigant Armour +3
+E_ARM_3024	Liquid Metal Armour +3
+E_ARM_3025	Sacred Armour +3
+E_ARM_3026	Metal King Armour +3
+E_ARM_3027	Legendary Armour +3
+E_ARM_3028	Irwin's Armour +3
+E_ARM_3029	Drustan's Armour +3
+E_ARM_3030	Gallopitan Garb +3
 E_ARM_3301	NULL (arm 301 +3)
 E_ARM_3302	NULL (arm 302 +3)
 E_ARM_3303	NULL (arm 303 +3)
-E_ARM_3998	NULL (arm 998 +3)
-E_ROB_3001	NULL (rob 1 +3)
-E_ROB_3002	NULL (rob 2 +3)
-E_ROB_3003	NULL (rob 3 +3)
-E_ROB_3004	NULL (rob 4 +3)
-E_ROB_3005	NULL (rob 5 +3)
-E_ROB_3006	NULL (rob 6 +3)
-E_ROB_3007	NULL (rob 7 +3)
-E_ROB_3008	NULL (rob 8 +3)
-E_ROB_3009	NULL (rob 9 +3)
-E_ROB_3010	NULL (rob 10 +3)
-E_ROB_3011	NULL (rob 11 +3)
-E_ROB_3012	NULL (rob 12 +3)
-E_ROB_3013	NULL (rob 13 +3)
-E_ROB_3014	NULL (rob 14 +3)
-E_ROB_3015	NULL (rob 15 +3)
-E_ROB_3016	NULL (rob 16 +3)
-E_ROB_3017	NULL (rob 17 +3)
-E_ROB_3018	NULL (rob 18 +3)
-E_ROB_3019	NULL (rob 19 +3)
-E_ROB_3020	NULL (rob 20 +3)
-E_ROB_3021	NULL (rob 21 +3)
-E_ROB_3022	NULL (rob 22 +3)
-E_ROB_3023	NULL (rob 23 +3)
-E_ROB_3024	NULL (rob 24 +3)
+E_ARM_3998	Tectonic Plate +3
+E_ROB_3001	Silk Robe +3
+E_ROB_3002	Fizzle-Retardant Suit +3
+E_ROB_3003	Fizzle-Retardant Blouse +3
+E_ROB_3004	Robe of Serenity +3
+E_ROB_3005	Magic Vestment +3
+E_ROB_3006	Glombolero +3
+E_ROB_3007	Sage's Robe +3
+E_ROB_3008	Wizard's Robe +3
+E_ROB_3009	Witch's Robe +3
+E_ROB_3010	Prince's Pea Coat +3
+E_ROB_3011	King's Coat +3
+E_ROB_3012	Queen's Robe +3
+E_ROB_3013	Emperor's Attire +3
+E_ROB_3014	Empress's Robe +3
+E_ROB_3015	Warrior Princess's Dress +3
+E_ROB_3016	Angel's Robe +3
+E_ROB_3017	Crimson Robe +3
+E_ROB_3018	Flowing Dress +3
+E_ROB_3019	Dark Robe +3
+E_ROB_3020	Dragon Robe +3
+E_ROB_3021	Seraph's Robe +3
+E_ROB_3022	Gown of Eternity +3
+E_ROB_3023	Minerva's Raiment +3
+E_ROB_3024	Princess's Robe +3
 E_ROB_3301	NULL (rob 301 +3)
 E_ROB_3302	NULL (rob 302 +3)
 A_FAC_3001	Slime Earrings +3
