@@ -33,7 +33,8 @@ namespace DQ11
             DQaddress = DQIndex[0] - 48;//No shopping offset. Other 9 seem to be mixed around at +0x04 each from here
             
             var itemIndex = SaveData.Instance().FindAddress("DLC_07", 0);
-			if (itemIndex.Count == 0) return;
+            if (itemIndex.Count == 0) itemIndex = SaveData.Instance().FindAddress("DLC_02", 0);//accounts for PC version difference
+            if (itemIndex.Count == 0) return;
 			uint address = itemIndex[0] + 11;
 
 			for(int i = 0; i < Party.Count; i++)
