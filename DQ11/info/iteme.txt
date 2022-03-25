@@ -344,7 +344,7 @@ W_SWD_0003	Soldier's Sword
 W_SWD_0004	Bronze Sword
 W_SWD_0005	Rapier
 W_SWD_0006	Iron Broadsword
-W_SWD_0007	Syvlando's Sword
+W_SWD_0007	Sylvando's Sword
 W_SWD_0008	Cautery Sword
 W_SWD_0009	Silver Rapier
 W_SWD_0010	Steel Broadsword
@@ -634,8 +634,8 @@ E_CLO_0302	Assassin's Attire
 E_CLO_0303	Battle Dress
 E_CLO_0304	The Hare-Raiser
 E_CLO_0305	Grand Master's Garb
-E_CLO_0306	Baby Boar Costume
-E_CLO_0307	Wolf Wear
+E_CLO_0306	Baby Boar Costume (Wolf Wear on PC)
+E_CLO_0307	Wolf Wear (Baby Boar Costume on PC)
 E_CLO_0995	Black Cat Costume
 E_CLO_0996	Divine Dancer's Costume
 E_CLO_0997	Uniforme Chic de l'Academie
@@ -988,7 +988,7 @@ W_SWD_1003	Soldier's Sword +1
 W_SWD_1004	Bronze Sword +1
 W_SWD_1005	Rapier +1
 W_SWD_1006	Iron Broadsword +1
-W_SWD_1007	Syvlando's Sword +1
+W_SWD_1007	Sylvando's Sword +1
 W_SWD_1008	Cautery Sword +1
 W_SWD_1009	Silver Rapier +1
 W_SWD_1010	Steel Broadsword +1
@@ -1632,7 +1632,7 @@ W_SWD_2003	Soldier's Sword +2
 W_SWD_2004	Bronze Sword +2
 W_SWD_2005	Rapier +2
 W_SWD_2006	Iron Broadsword +2
-W_SWD_2007	Syvlando's Sword +2
+W_SWD_2007	Sylvando's Sword +2
 W_SWD_2008	Cautery Sword +2
 W_SWD_2009	Silver Rapier +2
 W_SWD_2010	Steel Broadsword +2
@@ -2276,7 +2276,7 @@ W_SWD_3003	Soldier's Sword +3
 W_SWD_3004	Bronze Sword +3
 W_SWD_3005	Rapier +3
 W_SWD_3006	Iron Broadsword +3
-W_SWD_3007	Syvlando's Sword +3
+W_SWD_3007	Sylvando's Sword +3
 W_SWD_3008	Cautery Sword +3
 W_SWD_3009	Silver Rapier +3
 W_SWD_3010	Steel Broadsword +3

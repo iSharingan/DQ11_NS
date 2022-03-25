@@ -12,7 +12,8 @@ namespace DQ11
         public uint sAddress;
         public uint eAddress;
         public Bag Inventory { get; set; } = new Bag();
-		public String Name { get; private set; }
+        public Bag TTInventory { get; set; } = new Bag();//accounts for Act 1 stored inventory coppy that later gets restored in Act 3
+        public String Name { get; private set; }
 
         public Character(uint address)
 		{

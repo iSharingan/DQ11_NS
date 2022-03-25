@@ -40,8 +40,8 @@ namespace DQ11
 			for(int i = 0; i < Party.Count; i++)
 			{
 				address = Party[i].Inventory.Create(address);
-				address += 4;
-			}
+                address = Party[i].TTInventory.Create(address);//coppied inventory from Act 1 that gets restored in Act 3. Not currently used in editor
+            }
 
 			address = Items.Create(address);//Item bag
             address += 4;
