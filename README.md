@@ -1,5 +1,9 @@
 Modified to 'work' with most non-japanese saves by iSharingan
 
+# NOTICE
+
+Due to Github being retarded, consider this account derelict until forced 2FA is removed. I won't punish users of my edits on this tool, but it won't be recieving updates/fixes. If you have questions, find me on Discord as iShar#1771 (just let me know where you found me)
+
 # Overview
 Nintendo Switch Dragon Quest 11 S save data editing Tool (should also work on PC/XBox/PS4 DQ11S saves)
 
